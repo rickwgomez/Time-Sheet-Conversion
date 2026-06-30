@@ -1,0 +1,19 @@
+{
+  "item_name_template": "{Employee Name} - {Work Date}",
+  "group_id": "",
+  "columns": {
+    "employee_name": "Employee Name",
+    "employee_id": "Employee ID",
+    "work_date": "Work Date",
+    "clock_in": "Clock In",
+    "clock_out": "Clock Out",
+    "break_minutes": "Break Minutes",
+    "hours_worked": "Hours Worked",
+    "job_project": "Job / Project",
+    "cost_code": "Cost Code",
+    "reviewer_status": "Reviewer Status",
+    "review_flags": "Review Flags",
+    "notes": "Notes",
+    "source_file": "Source File"
+  }
+}

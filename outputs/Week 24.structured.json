@@ -1,0 +1,813 @@
+{
+  "source_pdf": "incoming_timesheets/Week 24.pdf",
+  "output_base_name": "Week 24",
+  "sections": [
+    {
+      "source_page": 1,
+      "date": "2026-06-10",
+      "work_performed": "Stretch Finish",
+      "entries": [
+        {
+          "source_page": 1,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-10",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600206",
+          "employee_name": "Eric Mares",
+          "start_time": "09:35",
+          "end_time": "16:30",
+          "total_hours": 6.92,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 1,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-10",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600206",
+          "employee_name": "Marcelino Garza",
+          "start_time": "09:35",
+          "end_time": "16:30",
+          "total_hours": 6.92,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 2,
+      "date": "2026-06-11",
+      "work_performed": "Finish",
+      "entries": [
+        {
+          "source_page": 2,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-11",
+          "work_performed": "Finish",
+          "job_number": "2600106",
+          "employee_name": "Eric Mares",
+          "start_time": "09:35",
+          "end_time": "10:30",
+          "total_hours": 0.92,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 2,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-11",
+          "work_performed": "Finish",
+          "job_number": "2600106",
+          "employee_name": "Marcelino Garza",
+          "start_time": "09:35",
+          "end_time": "10:30",
+          "total_hours": 0.92,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 3,
+      "date": "2026-06-09",
+      "work_performed": "Stretch Finish",
+      "entries": [
+        {
+          "source_page": 3,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-09",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600227",
+          "employee_name": "Zach Reitzer",
+          "start_time": "09:30",
+          "end_time": "15:00",
+          "total_hours": 5.5,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 3,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-09",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600227",
+          "employee_name": "Felipe Morales",
+          "start_time": "09:30",
+          "end_time": "15:00",
+          "total_hours": 5.5,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 3,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-09",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600227",
+          "employee_name": "Jose Moreno",
+          "start_time": "09:30",
+          "end_time": "15:00",
+          "total_hours": 5.5,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 3,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-09",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600227",
+          "employee_name": "Frank Olachea",
+          "start_time": "09:30",
+          "end_time": "15:00",
+          "total_hours": 5.5,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 4,
+      "date": "2026-06-08",
+      "work_performed": "Stretch Finish",
+      "entries": [
+        {
+          "source_page": 4,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-08",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600227",
+          "employee_name": "Zach Reitzer",
+          "start_time": "08:55",
+          "end_time": "15:35",
+          "total_hours": 6.67,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 4,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-08",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600227",
+          "employee_name": "Felipe Morales",
+          "start_time": "08:55",
+          "end_time": "15:35",
+          "total_hours": 6.67,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 5,
+      "date": "2026-06-12",
+      "work_performed": "Repair",
+      "entries": [
+        {
+          "source_page": 5,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-12",
+          "work_performed": "Repair",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Zach Reitzer",
+          "start_time": "ON SITE MISSING",
+          "end_time": "ON SITE MISSING",
+          "total_hours": null,
+          "include_in_summary": false
+        },
+        {
+          "source_page": 5,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-12",
+          "work_performed": "Repair",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Jose Moreno",
+          "start_time": "ON SITE MISSING",
+          "end_time": "ON SITE MISSING",
+          "total_hours": null,
+          "include_in_summary": false
+        }
+      ]
+    },
+    {
+      "source_page": 6,
+      "date": "2026-06-11",
+      "work_performed": "Hang Gates",
+      "entries": [
+        {
+          "source_page": 6,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-11",
+          "work_performed": "Hang Gates",
+          "job_number": "2600331",
+          "employee_name": "Zach Reitzer",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "total_hours": 4.5,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 6,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-11",
+          "work_performed": "Hang Gates",
+          "job_number": "2600331",
+          "employee_name": "Felipe Morales",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "total_hours": 4.5,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 7,
+      "date": "2026-06-10",
+      "work_performed": "Stretch Finish",
+      "entries": [
+        {
+          "source_page": 7,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-10",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600227",
+          "employee_name": "Zach Reitzer",
+          "start_time": "08:30",
+          "end_time": "12:00",
+          "total_hours": 3.5,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 7,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-10",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600227",
+          "employee_name": "Felipe Morales",
+          "start_time": "08:30",
+          "end_time": "12:00",
+          "total_hours": 3.5,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 7,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-10",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600227",
+          "employee_name": "Jose Moreno",
+          "start_time": "08:30",
+          "end_time": "12:00",
+          "total_hours": 3.5,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 7,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-10",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600227",
+          "employee_name": "Frank Olachea",
+          "start_time": "08:30",
+          "end_time": "12:00",
+          "total_hours": 3.5,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 7,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-10",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600227",
+          "employee_name": "Levi Saunders",
+          "start_time": "08:30",
+          "end_time": "12:00",
+          "total_hours": 3.5,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 8,
+      "date": "2026-06-11",
+      "work_performed": "Tear Out and Set",
+      "entries": [
+        {
+          "source_page": 8,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-11",
+          "work_performed": "Tear Out and Set",
+          "job_number": "2600348",
+          "employee_name": "Roger Huber",
+          "start_time": "10:50",
+          "end_time": "14:10",
+          "total_hours": 3.33,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 8,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-11",
+          "work_performed": "Tear Out and Set",
+          "job_number": "2600348",
+          "employee_name": "Willie Dempsey",
+          "start_time": "10:50",
+          "end_time": "14:10",
+          "total_hours": 3.33,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 9,
+      "date": "2026-06-12",
+      "work_performed": "Set Posts / Tear Out",
+      "entries": [
+        {
+          "source_page": 9,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-12",
+          "work_performed": "Set Posts / Tear Out",
+          "job_number": "2600348",
+          "employee_name": "Roger Huber",
+          "start_time": "09:15",
+          "end_time": "14:05",
+          "total_hours": 4.83,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 9,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-12",
+          "work_performed": "Set Posts / Tear Out",
+          "job_number": "2600348",
+          "employee_name": "Willie Dempsey",
+          "start_time": "09:15",
+          "end_time": "14:05",
+          "total_hours": 4.83,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 9,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-12",
+          "work_performed": "Set Posts / Tear Out",
+          "job_number": "2600348",
+          "employee_name": "Felipe Morales",
+          "start_time": "09:15",
+          "end_time": "14:05",
+          "total_hours": 4.83,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 10,
+      "date": "2026-06-10",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "entries": [
+        {
+          "source_page": 10,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-10",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600360",
+          "employee_name": "Roger Huber",
+          "start_time": "07:55",
+          "end_time": "11:15",
+          "total_hours": 3.33,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 10,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-10",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600360",
+          "employee_name": "Willie Dempsey",
+          "start_time": "07:55",
+          "end_time": "11:15",
+          "total_hours": 3.33,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 11,
+      "date": "2026-06-10",
+      "work_performed": "Stretch Finish",
+      "entries": [
+        {
+          "source_page": 11,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-10",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600398",
+          "employee_name": "Roger Huber",
+          "start_time": "12:10",
+          "end_time": "14:05",
+          "total_hours": 1.92,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 11,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-10",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600398",
+          "employee_name": "Willie Dempsey",
+          "start_time": "12:10",
+          "end_time": "14:05",
+          "total_hours": 1.92,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 12,
+      "date": "2026-06-09",
+      "work_performed": "Repairs",
+      "entries": [
+        {
+          "source_page": 12,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-09",
+          "work_performed": "Repairs",
+          "job_number": "2600320",
+          "employee_name": "Roger Huber",
+          "start_time": "08:00",
+          "end_time": "14:35",
+          "total_hours": 6.58,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 12,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-09",
+          "work_performed": "Repairs",
+          "job_number": "2600320",
+          "employee_name": "Willie Dempsey",
+          "start_time": "08:00",
+          "end_time": "14:35",
+          "total_hours": 6.58,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 13,
+      "date": "2026-06-08",
+      "work_performed": "Stretch Finish",
+      "entries": [
+        {
+          "source_page": 13,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-08",
+          "work_performed": "Stretch Finish",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Roger Huber",
+          "start_time": "08:00",
+          "end_time": "14:45",
+          "total_hours": 6.75,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 13,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-08",
+          "work_performed": "Stretch Finish",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Willie Dempsey",
+          "start_time": "08:00",
+          "end_time": "14:45",
+          "total_hours": 6.75,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 14,
+      "date": "2026-06-12",
+      "work_performed": "Set",
+      "entries": [
+        {
+          "source_page": 14,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-12",
+          "work_performed": "Set",
+          "job_number": "2600482",
+          "employee_name": "Eric Mares",
+          "start_time": "08:30",
+          "end_time": "11:57",
+          "total_hours": 3.45,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 14,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-12",
+          "work_performed": "Set",
+          "job_number": "2600482",
+          "employee_name": "Marcelino Garza",
+          "start_time": "08:30",
+          "end_time": "11:57",
+          "total_hours": 3.45,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 15,
+      "date": "2026-06-10",
+      "work_performed": "Repairs",
+      "entries": [
+        {
+          "source_page": 15,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-10",
+          "work_performed": "Repairs",
+          "job_number": "2600372",
+          "employee_name": "Eric Mares",
+          "start_time": "ON SITE MISSING",
+          "end_time": "ON SITE MISSING",
+          "total_hours": null,
+          "include_in_summary": false
+        },
+        {
+          "source_page": 15,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-10",
+          "work_performed": "Repairs",
+          "job_number": "2600372",
+          "employee_name": "Marcelino Garza",
+          "start_time": "ON SITE MISSING",
+          "end_time": "ON SITE MISSING",
+          "total_hours": null,
+          "include_in_summary": false
+        }
+      ]
+    },
+    {
+      "source_page": 16,
+      "date": "2026-06-13",
+      "work_performed": "Repair",
+      "entries": [
+        {
+          "source_page": 16,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-13",
+          "work_performed": "Repair",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Eric Mares",
+          "start_time": "10:50",
+          "end_time": "12:15",
+          "total_hours": 1.42,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 17,
+      "date": "2026-06-09",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "entries": [
+        {
+          "source_page": 17,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-09",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600285",
+          "employee_name": "Jason Jamieson",
+          "start_time": "09:25",
+          "end_time": "14:08",
+          "total_hours": 4.72,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 17,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-09",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600285",
+          "employee_name": "Joshua Scott",
+          "start_time": "09:25",
+          "end_time": "14:08",
+          "total_hours": 4.72,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 18,
+      "date": "2026-06-11",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "entries": [
+        {
+          "source_page": 18,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-11",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Jose Moreno",
+          "start_time": "11:30",
+          "end_time": "15:33",
+          "total_hours": 4.05,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 18,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-11",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Frank Olachea",
+          "start_time": "11:30",
+          "end_time": "15:33",
+          "total_hours": 4.05,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 19,
+      "date": "2026-06-08",
+      "work_performed": "Repairs",
+      "entries": [
+        {
+          "source_page": 19,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-08",
+          "work_performed": "Repairs",
+          "job_number": "2600227",
+          "employee_name": "Jose Moreno",
+          "start_time": "09:03",
+          "end_time": "15:31",
+          "total_hours": 6.47,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 19,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-08",
+          "work_performed": "Repairs",
+          "job_number": "2600227",
+          "employee_name": "Frank Olachea",
+          "start_time": "09:03",
+          "end_time": "15:31",
+          "total_hours": 6.47,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 20,
+      "date": "2026-06-12",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "entries": [
+        {
+          "source_page": 20,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-12",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Frank Olachea",
+          "start_time": "09:20",
+          "end_time": "10:57",
+          "total_hours": 1.62,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 20,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-12",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Levi Saunders",
+          "start_time": "09:20",
+          "end_time": "10:57",
+          "total_hours": 1.62,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 21,
+      "date": "2026-06-08",
+      "work_performed": "Shop / Make hand rails",
+      "entries": [
+        {
+          "source_page": 21,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-08",
+          "work_performed": "Shop / Make hand rails",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Levi Saunders",
+          "start_time": "ON SITE MISSING",
+          "end_time": "ON SITE MISSING",
+          "total_hours": null,
+          "include_in_summary": false
+        }
+      ]
+    },
+    {
+      "source_page": 22,
+      "date": "2026-06-09",
+      "work_performed": "Shop / Pickup materials",
+      "entries": [
+        {
+          "source_page": 22,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-09",
+          "work_performed": "Shop / Pickup materials",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Levi Saunders",
+          "start_time": "ON SITE MISSING",
+          "end_time": "ON SITE MISSING",
+          "total_hours": null,
+          "include_in_summary": false
+        }
+      ]
+    },
+    {
+      "source_page": 23,
+      "date": "2026-06-05",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "entries": [
+        {
+          "source_page": 23,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-05",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Zach Reitzer",
+          "start_time": "ON SITE MISSING",
+          "end_time": "ON SITE MISSING",
+          "total_hours": null,
+          "include_in_summary": false
+        },
+        {
+          "source_page": 23,
+          "source_pdf": "incoming_timesheets/Week 24.pdf",
+          "date": "2026-06-05",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Felipe Morales",
+          "start_time": "ON SITE MISSING",
+          "end_time": "ON SITE MISSING",
+          "total_hours": null,
+          "include_in_summary": false
+        }
+      ]
+    }
+  ],
+  "summary": [
+    {
+      "employee_name": "Eric Mares",
+      "on_site_entries": 4,
+      "total_on_site_hours": 12.71
+    },
+    {
+      "employee_name": "Felipe Morales",
+      "on_site_entries": 5,
+      "total_on_site_hours": 25.0
+    },
+    {
+      "employee_name": "Frank Olachea",
+      "on_site_entries": 5,
+      "total_on_site_hours": 21.14
+    },
+    {
+      "employee_name": "Jason Jamieson",
+      "on_site_entries": 1,
+      "total_on_site_hours": 4.72
+    },
+    {
+      "employee_name": "Jose Moreno",
+      "on_site_entries": 4,
+      "total_on_site_hours": 19.52
+    },
+    {
+      "employee_name": "Joshua Scott",
+      "on_site_entries": 1,
+      "total_on_site_hours": 4.72
+    },
+    {
+      "employee_name": "Levi Saunders",
+      "on_site_entries": 2,
+      "total_on_site_hours": 5.12
+    },
+    {
+      "employee_name": "Marcelino Garza",
+      "on_site_entries": 3,
+      "total_on_site_hours": 11.29
+    },
+    {
+      "employee_name": "Roger Huber",
+      "on_site_entries": 6,
+      "total_on_site_hours": 26.74
+    },
+    {
+      "employee_name": "Willie Dempsey",
+      "on_site_entries": 6,
+      "total_on_site_hours": 26.74
+    },
+    {
+      "employee_name": "Zach Reitzer",
+      "on_site_entries": 4,
+      "total_on_site_hours": 20.17
+    }
+  ],
+  "model_version": "timecard.weekly_on_site.v1"
+}

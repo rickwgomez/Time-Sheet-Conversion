@@ -1,0 +1,212 @@
+{
+  "source_pdf": "incoming_timesheets/Week 24.pdf",
+  "sections": [
+    {
+      "page": 1,
+      "date": "2026-06-10",
+      "work_performed": "Stretch Finish",
+      "job_number": "2600206",
+      "on_site_start": "09:35",
+      "on_site_end": "16:30",
+      "people": ["Eric", "Marcelino"]
+    },
+    {
+      "page": 2,
+      "date": "2026-06-11",
+      "work_performed": "Finish",
+      "job_number": "2600106",
+      "on_site_start": "09:35",
+      "on_site_end": "10:30",
+      "people": ["Eric", "Marcelino"]
+    },
+    {
+      "page": 3,
+      "date": "2026-06-09",
+      "work_performed": "Stretch Finish",
+      "job_number": "2600227",
+      "on_site_start": "09:30",
+      "on_site_end": "15:00",
+      "people": ["Zach", "Felipe", "Jose", "Frank"]
+    },
+    {
+      "page": 4,
+      "date": "2026-06-08",
+      "work_performed": "Stretch Finish",
+      "job_number": "2600227",
+      "on_site_start": "08:55",
+      "on_site_end": "15:35",
+      "people": ["Zach", "Felipe"]
+    },
+    {
+      "page": 5,
+      "date": "2026-06-12",
+      "work_performed": "Repair",
+      "job_number": "JOB# NEEDED",
+      "on_site_start": "ON SITE MISSING",
+      "on_site_end": "ON SITE MISSING",
+      "people": ["Zach", "Jose"]
+    },
+    {
+      "page": 6,
+      "date": "2026-06-11",
+      "work_performed": "Hang Gates",
+      "job_number": "2600331",
+      "on_site_start": "09:00",
+      "on_site_end": "13:30",
+      "people": ["Zach", "Felipe"]
+    },
+    {
+      "page": 7,
+      "date": "2026-06-10",
+      "work_performed": "Stretch Finish",
+      "job_number": "2600227",
+      "on_site_start": "08:30",
+      "on_site_end": "12:00",
+      "people": ["Zach", "Felipe", "Jose", "Frank", "Levi"]
+    },
+    {
+      "page": 8,
+      "date": "2026-06-11",
+      "work_performed": "Tear Out and Set",
+      "job_number": "2600348",
+      "on_site_start": "10:50",
+      "on_site_end": "14:10",
+      "people": ["Roger", "Willie"]
+    },
+    {
+      "page": 9,
+      "date": "2026-06-12",
+      "work_performed": "Set Posts / Tear Out",
+      "job_number": "2600348",
+      "on_site_start": "09:15",
+      "on_site_end": "14:05",
+      "people": ["Roger", "Willie", "Felipe"]
+    },
+    {
+      "page": 10,
+      "date": "2026-06-10",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "job_number": "2600360",
+      "on_site_start": "07:55",
+      "on_site_end": "11:15",
+      "people": ["Roger", "Willie"]
+    },
+    {
+      "page": 11,
+      "date": "2026-06-10",
+      "work_performed": "Stretch Finish",
+      "job_number": "2600398",
+      "on_site_start": "12:10",
+      "on_site_end": "14:05",
+      "people": ["Roger", "Willie"]
+    },
+    {
+      "page": 12,
+      "date": "2026-06-09",
+      "work_performed": "Repairs",
+      "job_number": "2600320",
+      "on_site_start": "08:00",
+      "on_site_end": "14:35",
+      "people": ["Roger", "Willie"]
+    },
+    {
+      "page": 13,
+      "date": "2026-06-08",
+      "work_performed": "Stretch Finish",
+      "job_number": "JOB# NEEDED",
+      "on_site_start": "08:00",
+      "on_site_end": "14:45",
+      "people": ["Roger", "Willie"]
+    },
+    {
+      "page": 14,
+      "date": "2026-06-12",
+      "work_performed": "Set",
+      "job_number": "2600482",
+      "on_site_start": "08:30",
+      "on_site_end": "11:57",
+      "people": ["Eric", "Marcelino"]
+    },
+    {
+      "page": 15,
+      "date": "2026-06-10",
+      "work_performed": "Repairs",
+      "job_number": "2600372",
+      "on_site_start": "ON SITE MISSING",
+      "on_site_end": "ON SITE MISSING",
+      "people": ["Eric", "Marcelino"]
+    },
+    {
+      "page": 16,
+      "date": "2026-06-13",
+      "work_performed": "Repair",
+      "job_number": "JOB# NEEDED",
+      "on_site_start": "10:50",
+      "on_site_end": "12:15",
+      "people": ["Eric"]
+    },
+    {
+      "page": 17,
+      "date": "2026-06-09",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "job_number": "2600285",
+      "on_site_start": "09:25",
+      "on_site_end": "14:08",
+      "people": ["Jason", "Josh"]
+    },
+    {
+      "page": 18,
+      "date": "2026-06-11",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "job_number": "JOB# NEEDED",
+      "on_site_start": "11:30",
+      "on_site_end": "15:33",
+      "people": ["Jose", "Frank"]
+    },
+    {
+      "page": 19,
+      "date": "2026-06-08",
+      "work_performed": "Repairs",
+      "job_number": "2600227",
+      "on_site_start": "09:03",
+      "on_site_end": "15:31",
+      "people": ["Jose", "Frank"]
+    },
+    {
+      "page": 20,
+      "date": "2026-06-12",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "job_number": "JOB# NEEDED",
+      "on_site_start": "09:20",
+      "on_site_end": "10:57",
+      "people": ["Frank", "Levi"]
+    },
+    {
+      "page": 21,
+      "date": "2026-06-08",
+      "work_performed": "Shop / Make hand rails",
+      "job_number": "JOB# NEEDED",
+      "on_site_start": "ON SITE MISSING",
+      "on_site_end": "ON SITE MISSING",
+      "people": ["Levi"]
+    },
+    {
+      "page": 22,
+      "date": "2026-06-09",
+      "work_performed": "Shop / Pickup materials",
+      "job_number": "JOB# NEEDED",
+      "on_site_start": "ON SITE MISSING",
+      "on_site_end": "ON SITE MISSING",
+      "people": ["Levi"]
+    },
+    {
+      "page": 23,
+      "date": "2026-06-05",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "job_number": "JOB# NEEDED",
+      "on_site_start": "ON SITE MISSING",
+      "on_site_end": "ON SITE MISSING",
+      "people": ["Zach", "Felipe"]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+Employee,Project,Hours,Date,Type,Description
+Jason Jamieson,2600197,2.5,2026-06-22,Billable,Gate Ops
+Joshua Scott,2600197,2.5,2026-06-22,Billable,Gate Ops
+Jason Jamieson,2600458,3.75,2026-06-24,Billable,Wall / Vinyl
+Joshua Scott,2600458,3.75,2026-06-24,Billable,Wall / Vinyl
+Jason Jamieson,2600458,1.8,2026-06-25,Billable,Hang Gate
+Joshua Scott,2600458,1.8,2026-06-25,Billable,Hang Gate
+Zach Reitzer,2600262,6.33,2026-06-23,Billable,Stretch Finish
+Felipe Morales,2600262,6.33,2026-06-23,Billable,Stretch Finish
+Jose Moreno,2600262,6.33,2026-06-23,Billable,Stretch Finish
+Zach Reitzer,2600262,7.0,2026-06-24,Billable,Stretch Finish
+Felipe Morales,2600262,7.0,2026-06-24,Billable,Stretch Finish
+Jose Moreno,2600262,7.0,2026-06-24,Billable,Stretch Finish
+Zach Reitzer,2600341,1.8,2026-06-25,Billable,Set Hand Rail
+Felipe Morales,2600341,1.8,2026-06-25,Billable,Set Hand Rail
+Zach Reitzer,2600087,3.83,2026-06-25,Billable,Battle Creek Apartments
+Felipe Morales,2600087,3.83,2026-06-25,Billable,Battle Creek Apartments
+Jose Moreno,2600262,3.75,2026-06-22,Billable,Stretch Finish
+Felipe Morales,2600262,3.75,2026-06-22,Billable,Stretch Finish
+Jose Moreno,2600287,2.0,2026-06-23,Billable,Stretch Finish
+Frank Olachea,2600287,2.0,2026-06-23,Billable,Stretch Finish
+Jose Moreno,2600400,4.67,2026-06-24,Billable,Set
+Frank Olachea,2600400,4.67,2026-06-24,Billable,Set
+Jose Moreno,2600416,4.92,2026-06-25,Billable,Stretch Finish
+Frank Olachea,2600416,4.92,2026-06-25,Billable,Stretch Finish
+Roger Huber,2600412,3.33,2026-06-23,Billable,Set Posts
+Willie Dempsey,2600412,3.33,2026-06-23,Billable,Set Posts
+Roger Huber,2600363,2.08,2026-06-24,Billable,Set Posts
+Willie Dempsey,2600363,2.08,2026-06-24,Billable,Set Posts
+Roger Huber,2600087,2.75,2026-06-24,Billable,Stretch Finish
+Willie Dempsey,2600087,2.75,2026-06-24,Billable,Stretch Finish
+Roger Huber,2600444,7.0,2026-06-25,Billable,Tearout / Set
+Willie Dempsey,2600444,7.0,2026-06-25,Billable,Tearout / Set
+Eric Mares,2600087,7.2,2026-06-26,Billable,Finish
+Marcelino Garza,2600087,7.2,2026-06-26,Billable,Finish
+Willie Dempsey,2600087,7.2,2026-06-26,Billable,Finish
+Eric Mares,2600087,6.92,2026-06-23,Billable,Set
+Jason Jamieson,2600087,6.92,2026-06-23,Billable,Set
+Eric Mares,2600087,5.75,2026-06-24,Billable,Set
+Marcelino Garza,2600087,5.75,2026-06-24,Billable,Set
+Eric Mares,2600087,6.25,2026-06-25,Billable,Stretch Finish
+Marcelino Garza,2600087,6.25,2026-06-25,Billable,Stretch Finish
+Levi Saunders,2600087,6.25,2026-06-25,Billable,Stretch Finish

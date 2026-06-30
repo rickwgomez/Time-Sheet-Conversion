@@ -1,0 +1,30 @@
+{
+  "monday": {
+    "item_name": "{date} - {employee_name} - {job_number}",
+    "fields": {
+      "date": "date",
+      "work_performed": "work_performed",
+      "job_number": "job_number",
+      "employee_name": "employee_name",
+      "start_time": "start_time",
+      "end_time": "end_time",
+      "total_hours": "total_hours",
+      "source_pdf": "source_pdf",
+      "source_page": "source_page"
+    }
+  },
+  "vibe": {
+    "record_name": "{date} - {employee_name} - {job_number}",
+    "fields": {
+      "date": "date",
+      "workPerformed": "work_performed",
+      "jobNumber": "job_number",
+      "employeeName": "employee_name",
+      "startTime": "start_time",
+      "endTime": "end_time",
+      "totalHours": "total_hours",
+      "sourcePdf": "source_pdf",
+      "sourcePage": "source_page"
+    }
+  }
+}

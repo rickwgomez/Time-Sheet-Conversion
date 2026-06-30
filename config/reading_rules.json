@@ -1,0 +1,91 @@
+{
+  "job_number_rules": {
+    "expected_digits": 7,
+    "prefix_from_work_date_year": true,
+    "notes": [
+      "Job numbers start with the corresponding calendar year. Example: for 2026, a read of 3600106 should be treated as 2600106 when the date is known."
+    ]
+  },
+  "employee_names": [
+    {
+      "canonical": "Eric",
+      "last_name": "Mares",
+      "roles": ["Lead"],
+      "aliases": ["ERic", "Erc"]
+    },
+    {
+      "canonical": "Zach",
+      "last_name": "Reitzer",
+      "roles": ["Lead"],
+      "aliases": ["Zachh", "Zack"]
+    },
+    {
+      "canonical": "Marcelino",
+      "last_name": "Garza",
+      "roles": ["Assistant"],
+      "aliases": ["Marcelino", "Marcelinio", "Marcelin"]
+    },
+    {
+      "canonical": "Felipe",
+      "last_name": "Morales",
+      "roles": ["Assistant"],
+      "aliases": ["Felipe", "Felipee"]
+    },
+    {
+      "canonical": "Jose",
+      "last_name": "Moreno",
+      "roles": ["Assistant"],
+      "aliases": ["Jose", "Jos\u00e9"]
+    },
+    {
+      "canonical": "Frank",
+      "last_name": "Olachea",
+      "roles": ["Assistant"],
+      "aliases": ["Frank", "Frink"]
+    },
+    {
+      "canonical": "Jason",
+      "last_name": "Jamieson",
+      "roles": ["Lead"],
+      "aliases": ["Jasen", "Jasdn"]
+    },
+    {
+      "canonical": "Joshua",
+      "last_name": "Scott",
+      "roles": ["Assistant"],
+      "aliases": ["Josh", "Josth"]
+    },
+    {
+      "canonical": "Roger",
+      "last_name": "Huber",
+      "roles": ["Lead"],
+      "aliases": ["Roger", "Rogger"]
+    },
+    {
+      "canonical": "Willie",
+      "last_name": "Dempsey",
+      "roles": ["Assistant"],
+      "aliases": ["Willie", "Willy"]
+    },
+    {
+      "canonical": "Levi",
+      "last_name": "Saunders",
+      "roles": ["Assistant", "Lead"],
+      "aliases": ["Levi", "Levy"]
+    }
+  ],
+  "placeholders": {
+    "unknown_lead": "LEAD NAME NEEDED",
+    "unknown_date": "DATE NEEDS REVIEW"
+  },
+  "handwriting_notes": [
+    {
+      "topic": "Job numbers",
+      "note": "A leading 3 on a 2026 job can be a handwriting/read issue and should usually normalize to 2 when the full job number is 7 digits."
+    },
+    {
+      "topic": "Report logic",
+      "note": "Only use the On Site time block for lead and assistant totals."
+    }
+  ]
+}

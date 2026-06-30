@@ -1,0 +1,53 @@
+Employee,Project,Hours,Date,Type,Description
+Eric Mares,2600206,7.77,2026-05-29,Billable,Set
+Marcelino Garza,2600206,7.77,2026-05-29,Billable,Set
+Jason Jamieson,2600260,2.55,2026-06-01,Billable,Gate operator
+Joshua Scott,2600260,2.55,2026-06-01,Billable,Gate operator
+Jason Jamieson,2600260,2.98,2026-06-02,Billable,Gate operator
+Joshua Scott,2600260,2.98,2026-06-02,Billable,Gate operator
+Jason Jamieson,2600163,3.63,2026-06-04,Billable,Gate operator
+Joshua Scott,2600163,3.63,2026-06-04,Billable,Gate operator
+Jason Jamieson,2600163,1.0,2026-06-05,Billable,Welding at the shop
+Joshua Scott,2600163,1.0,2026-06-05,Billable,Welding at the shop
+Willie Dempsey,2600301,4.92,2026-06-01,Billable,Set
+Roger Huber,2600257,4.58,2026-06-02,Billable,Stretch Finish
+Willie Dempsey,2600257,4.58,2026-06-02,Billable,Stretch Finish
+Levi Saunders,2600257,4.58,2026-06-02,Billable,Stretch Finish
+Roger Huber,2600360,2.08,2026-06-03,Billable,Bolt Down
+Willie Dempsey,2600360,2.08,2026-06-03,Billable,Bolt Down
+Roger Huber,2600257,2.25,2026-06-03,Billable,Stretch Finish
+Willie Dempsey,2600257,2.25,2026-06-03,Billable,Stretch Finish
+Roger Huber,2600360,7.83,2026-06-04,Billable,Bolt Down Posts
+Willie Dempsey,2600360,7.83,2026-06-04,Billable,Bolt Down Posts
+Roger Huber,2600360,7.25,2026-06-05,Billable,Stretch Finish
+Willie Dempsey,2600360,7.25,2026-06-05,Billable,Stretch Finish
+Felipe Morales,2600360,7.25,2026-06-05,Billable,Stretch Finish
+Frank Olachea,2600257,6.77,2026-06-01,Billable,WORK PERFORMED NEEDED
+Marcelino Garza,2600257,6.77,2026-06-01,Billable,WORK PERFORMED NEEDED
+Jose Moreno,2600344,6.05,2026-06-02,Billable,Stretch Finish
+Frank Olachea,2600344,6.05,2026-06-02,Billable,Stretch Finish
+Jose Moreno,2600344,5.78,2026-06-03,Billable,Stretch Finish
+Frank Olachea,2600344,5.78,2026-06-03,Billable,Stretch Finish
+Jose Moreno,2600221,5.62,2026-06-04,Billable,Stretch Finish
+Frank Olachea,2600221,5.62,2026-06-04,Billable,Stretch Finish
+Jose Moreno,2600359,2.0,2026-06-05,Billable,Repair
+Frank Olachea,2600359,2.0,2026-06-05,Billable,Repair
+Jose Moreno,2600380,0.67,2026-06-05,Billable,Handrail Set
+Frank Olachea,2600380,0.67,2026-06-05,Billable,Handrail Set
+Eric Mares,2600379,5.03,2026-06-02,Billable,Set
+Marcelino Garza,2600379,5.03,2026-06-02,Billable,Set
+Eric Mares,2600322,6.0,2026-06-03,Billable,Stretch Finish
+Marcelino Garza,2600322,6.0,2026-06-03,Billable,Stretch Finish
+Eric Mares,2600322,3.67,2026-06-04,Billable,Stretch Finish
+Levi Saunders,2600322,3.67,2026-06-04,Billable,Stretch Finish
+Eric Mares,2600206,7.83,2026-06-05,Billable,Stretch
+Levi Saunders,2600206,7.83,2026-06-05,Billable,Stretch
+Zach Reitzer,2600398,6.0,2026-06-01,Billable,Stretch
+Felipe Morales,2600398,6.0,2026-06-01,Billable,Stretch
+Zach Reitzer,2600398,9.25,2026-06-02,Billable,Stretch Finish
+Felipe Morales,2600398,9.25,2026-06-02,Billable,Stretch Finish
+Zach Reitzer,2600302,5.0,2026-06-03,Billable,Stretch Finish
+Felipe Morales,2600302,5.0,2026-06-03,Billable,Stretch Finish
+Zach Reitzer,2600035,2.5,2026-06-04,Billable,Tear Out
+Felipe Morales,2600035,2.5,2026-06-04,Billable,Tear Out
+Zach Reitzer,2600206,5.0,2026-06-05,Billable,Finish
