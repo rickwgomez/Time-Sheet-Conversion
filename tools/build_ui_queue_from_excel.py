@@ -41,6 +41,19 @@ def load_employee_directory(rules_path):
     return directory
 
 
+def is_monday_job_number(job_number, date_text, rules):
+    job_rules = rules.get("job_number_rules", {})
+    expected_digits = int(job_rules.get("expected_digits", 7))
+    job_text = str(job_number)
+    if not job_text.isdigit() or len(job_text) != expected_digits:
+        return False
+    if not isinstance(date_text, str) or len(date_text) < 4 or not date_text[:4].isdigit():
+        return False
+    work_year = int(date_text[:4])
+    allowed_prefixes = {str(work_year)[2:4], str(work_year - 1)[2:4]}
+    return job_text[:2] in allowed_prefixes
+
+
 def expand_employee_name(employee_name, directory):
     first_name = str(employee_name).strip()
     match = directory.get(first_name.lower())
@@ -57,6 +70,8 @@ def expand_employee_name(employee_name, directory):
 
 
 def build_queue(workbook_path, rules_path=DEFAULT_RULES):
+    with rules_path.open("r", encoding="utf-8") as handle:
+        rules = json.load(handle)
     employee_directory = load_employee_directory(rules_path)
     temp_dir = Path(tempfile.mkdtemp(prefix="timecard_excel_"))
     temp_workbook = temp_dir / workbook_path.name
@@ -79,7 +94,9 @@ def build_queue(workbook_path, rules_path=DEFAULT_RULES):
             continue
 
         job_number, employee_name, start_time, end_time, total_hours = row[:5]
-        if job_number in SKIP_JOB_VALUES:
+        if job_number in SKIP_JOB_VALUES or not str(job_number).isdigit():
+            continue
+        if not is_monday_job_number(job_number, current_date, rules):
             continue
         if employee_name in SKIP_EMPLOYEE_VALUES:
             continue

@@ -1,0 +1,41 @@
+Employee,Project,Hours,Date,Type,Description
+Zach Reitzer,2600354,7.0,2026-06-29,Billable,Set
+Frank Olachea,2600354,7.0,2026-06-29,Billable,Set
+Zach Reitzer,2600354,5.17,2026-06-30,Billable,Set
+Frank Olachea,2600354,5.17,2026-06-30,Billable,Set
+Zach Reitzer,2600354,3.67,2026-07-01,Billable,WORK PERFORMED NEEDED
+Frank Olachea,2600354,3.67,2026-07-01,Billable,WORK PERFORMED NEEDED
+Zach Reitzer,2600206,6.0,2026-07-01,Billable,WORK PERFORMED NEEDED
+Frank Olachea,2600206,6.0,2026-07-01,Billable,WORK PERFORMED NEEDED
+Roger Huber,2600348,4.67,2026-06-30,Billable,Stretch Finish
+Willie Dempsey,2600348,4.67,2026-06-30,Billable,Stretch Finish
+Roger Huber,2600348,5.0,2026-07-01,Billable,Stretch Finish
+Willie Dempsey,2600348,5.0,2026-07-01,Billable,Stretch Finish
+Roger Huber,2600444,8.83,2026-07-02,Billable,Stretch Finish
+Willie Dempsey,2600444,8.83,2026-07-02,Billable,Stretch Finish
+Jose Moreno,2600272,2.25,2026-07-02,Billable,City of Newport
+Levi Saunders,2600272,2.25,2026-07-02,Billable,City of Newport
+Jose Moreno,2600363,1.13,2026-07-02,Billable,Hand Rails
+Marcelino Garza,2600363,1.13,2026-07-02,Billable,Hand Rails
+Jose Moreno,2600423,5.53,2026-06-29,Billable,Set
+Marcelino Garza,2600423,5.53,2026-06-29,Billable,Set
+Willie Dempsey,2600423,5.53,2026-06-29,Billable,Set
+Jose Moreno,2600428,6.75,2026-06-30,Billable,Repair
+Marcelino Garza,2600428,6.75,2026-06-30,Billable,Repair
+Gary Bell,2600449,3.25,2026-06-30,Billable,Install More Gates
+Eric Mares,2600440,6.25,2026-06-29,Billable,Botdown
+Felipe Morales,2600440,6.25,2026-06-29,Billable,Botdown
+Eric Mares,2600440,7.75,2026-06-30,Billable,Botdowns
+Felipe Morales,2600440,7.75,2026-06-30,Billable,Botdowns
+Eric Mares,2600440,6.5,2026-07-01,Billable,Stretch Finish
+Felipe Morales,2600440,6.5,2026-07-01,Billable,Stretch Finish
+Eric Mares,2600440,6.92,2026-07-02,Billable,Stretch Finish
+Felipe Morales,2600440,6.92,2026-07-02,Billable,Stretch Finish
+Jason Jamieson,2600287,0.32,2026-06-29,Billable,At Shop / Driving / On Site
+Joshua Scott,2600287,0.32,2026-06-29,Billable,At Shop / Driving / On Site
+Jason Jamieson,2600287,0.07,2026-06-30,Billable,Gate Operator
+Joshua Scott,2600287,0.07,2026-06-30,Billable,Gate Operator
+Jason Jamieson,2600287,0.22,2026-07-01,Billable,Gate Operator
+Joshua Scott,2600287,0.22,2026-07-01,Billable,Gate Operator
+Jason Jamieson,2600330,2.27,2026-07-02,Billable,Gate Operator
+Joshua Scott,2600330,2.27,2026-07-02,Billable,Gate Operator

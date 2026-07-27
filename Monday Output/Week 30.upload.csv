@@ -1,0 +1,37 @@
+Employee,Project,Hours,Date,Type,Description
+Eric Mares,2600500,2.75,7/24/2026,Billable,Repair
+Eric Mares,2600447,6.25,7/25/2026,Billable,Finish
+Eric Mares,2600507,1.5,7/24/2026,Billable,Repair
+Eric Mares,2600447,4.25,7/21/2026,Billable,Build
+Eric Mares,2600447,8.25,7/22/2026,Billable,Stretch Finish
+Eric Mares,2600447,8.17,7/21/2026,Billable,Stretch Finish
+Felipe Morales,2600500,2.75,7/24/2026,Billable,Repair
+Felipe Morales,2600447,6.25,7/25/2026,Billable,Finish
+Felipe Morales,2600507,1.5,7/24/2026,Billable,Repair
+Felipe Morales,2600447,4.25,7/21/2026,Billable,Build
+Felipe Morales,2600447,8.25,7/22/2026,Billable,Stretch Finish
+Felipe Morales,2600447,8.17,7/21/2026,Billable,Stretch Finish
+Frank Olachea,2600332,2,7/24/2026,Billable,Set
+Frank Olachea,2600447,8.25,7/22/2026,Billable,Stretch Finish
+Frank Olachea,2600035,7.75,7/20/2026,Billable,Set
+Frank Olachea,2600137,6.67,7/21/2026,Billable,Set
+Jason Jamieson,2600363,1.98,7/21/2026,Billable,WORK PERFORMED NEEDED
+Jason Jamieson,2600363,3.35,7/20/2026,Billable,Trenching for Exit and Intercom
+Jose Moreno,2600343,2.38,7/23/2026,Billable,Hand Rail
+Jose Moreno,2600483,5.17,7/22/2026,Billable,Finish
+Jose Moreno,2600332,2,7/24/2026,Billable,Set
+Jose Moreno,2600483,6,7/24/2026,Billable,Stretch Finish
+Joshua Scott,2600363,1.98,7/21/2026,Billable,WORK PERFORMED NEEDED
+Levi Saunders,2600118,4.8,7/21/2026,Billable,Set / Stretch Finish
+Marcelino Garza,2600483,6,7/24/2026,Billable,Set / Stretch Finish
+Marcelino Garza,2600343,2.38,7/23/2026,Billable,Hand Rail
+Marcelino Garza,2600483,5.17,7/22/2026,Billable,Finish
+Roger Huber,2600118,4.5,7/22/2026,Billable,Stretch Finish
+Roger Huber,2600035,0.08,7/23/2026,Billable,Stretch Finish
+Roger Huber,2600118,4.8,7/21/2026,Billable,Set / Stretch Finish
+Roger Huber,2600035,7.25,7/24/2026,Billable,Stretch Finish
+Willie Dempsey,2600118,4.5,7/22/2026,Billable,Stretch Finish
+Willie Dempsey,2600035,0.08,7/23/2026,Billable,Stretch Finish
+Willie Dempsey,2600035,7.25,7/24/2026,Billable,Stretch Finish
+Zach Reitzer,2600035,7.75,7/20/2026,Billable,Set
+Zach Reitzer,2600137,6.67,7/21/2026,Billable,Set

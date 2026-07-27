@@ -59,7 +59,7 @@
       "canonical": "Roger",
       "last_name": "Huber",
       "roles": ["Lead"],
-      "aliases": ["Roger", "Rogger"]
+      "aliases": ["Roger", "Rogger", "Ryan"]
     },
     {
       "canonical": "Willie",
@@ -86,6 +86,10 @@
     {
       "topic": "Report logic",
       "note": "Only use the On Site time block for lead and assistant totals."
+    },
+    {
+      "topic": "Prevailing Wage",
+      "note": "On the new time sheet, a checked box next to PW means Prevailing Wage. Mark that section with prevailing_wage=true so the job number appears red on the Weekly On Site Excel sheet. Monday output is unchanged."
     }
   ]
 }

@@ -1,0 +1,1379 @@
+{
+  "source_pdf": "incoming_timesheets/Week 28.pdf",
+  "monday": [
+    {
+      "item_name": "2026-07-10 - Jason Jamieson - 2600434",
+      "fields": {
+        "date": "2026-07-10",
+        "work_performed": "Gate Operator",
+        "job_number": "2600434",
+        "employee_name": "Jason Jamieson",
+        "start_time": "09:43",
+        "end_time": "12:00",
+        "total_hours": 2.28,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "item_name": "2026-07-10 - Zach Reitzer - 2600137",
+      "fields": {
+        "date": "2026-07-10",
+        "work_performed": "Set",
+        "job_number": "2600137",
+        "employee_name": "Zach Reitzer",
+        "start_time": "10:00",
+        "end_time": "15:00",
+        "total_hours": 5.0,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "item_name": "2026-07-10 - Frank Olachea - 2600137",
+      "fields": {
+        "date": "2026-07-10",
+        "work_performed": "Set",
+        "job_number": "2600137",
+        "employee_name": "Frank Olachea",
+        "start_time": "10:00",
+        "end_time": "15:00",
+        "total_hours": 5.0,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "item_name": "2026-07-09 - Zach Reitzer - 2600354",
+      "fields": {
+        "date": "2026-07-09",
+        "work_performed": "Stretch",
+        "job_number": "2600354",
+        "employee_name": "Zach Reitzer",
+        "start_time": "07:20",
+        "end_time": "15:00",
+        "total_hours": 7.67,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "item_name": "2026-07-09 - Frank Olachea - 2600354",
+      "fields": {
+        "date": "2026-07-09",
+        "work_performed": "Stretch",
+        "job_number": "2600354",
+        "employee_name": "Frank Olachea",
+        "start_time": "07:20",
+        "end_time": "15:00",
+        "total_hours": 7.67,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "item_name": "2026-07-08 - Zach Reitzer - 2600354",
+      "fields": {
+        "date": "2026-07-08",
+        "work_performed": "Stretch",
+        "job_number": "2600354",
+        "employee_name": "Zach Reitzer",
+        "start_time": "08:00",
+        "end_time": "15:30",
+        "total_hours": 7.5,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 4
+      }
+    },
+    {
+      "item_name": "2026-07-08 - Frank Olachea - 2600354",
+      "fields": {
+        "date": "2026-07-08",
+        "work_performed": "Stretch",
+        "job_number": "2600354",
+        "employee_name": "Frank Olachea",
+        "start_time": "08:00",
+        "end_time": "15:30",
+        "total_hours": 7.5,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 4
+      }
+    },
+    {
+      "item_name": "2026-07-07 - Zach Reitzer - 2600354",
+      "fields": {
+        "date": "2026-07-07",
+        "work_performed": "Stretch",
+        "job_number": "2600354",
+        "employee_name": "Zach Reitzer",
+        "start_time": "09:30",
+        "end_time": "16:30",
+        "total_hours": 7.0,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 5
+      }
+    },
+    {
+      "item_name": "2026-07-07 - Frank Olachea - 2600354",
+      "fields": {
+        "date": "2026-07-07",
+        "work_performed": "Stretch",
+        "job_number": "2600354",
+        "employee_name": "Frank Olachea",
+        "start_time": "09:30",
+        "end_time": "16:30",
+        "total_hours": 7.0,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 5
+      }
+    },
+    {
+      "item_name": "2026-07-09 - Jason Jamieson - 2600434",
+      "fields": {
+        "date": "2026-07-09",
+        "work_performed": "Gate Operator",
+        "job_number": "2600434",
+        "employee_name": "Jason Jamieson",
+        "start_time": "10:23",
+        "end_time": "11:00",
+        "total_hours": 0.62,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 6
+      }
+    },
+    {
+      "item_name": "2026-07-09 - Joshua Scott - 2600434",
+      "fields": {
+        "date": "2026-07-09",
+        "work_performed": "Gate Operator",
+        "job_number": "2600434",
+        "employee_name": "Joshua Scott",
+        "start_time": "10:23",
+        "end_time": "11:00",
+        "total_hours": 0.62,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 6
+      }
+    },
+    {
+      "item_name": "2026-07-07 - Roger Huber - 2600449",
+      "fields": {
+        "date": "2026-07-07",
+        "work_performed": "Tearout - Set",
+        "job_number": "2600449",
+        "employee_name": "Roger Huber",
+        "start_time": "13:50",
+        "end_time": "15:05",
+        "total_hours": 1.25,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 8
+      }
+    },
+    {
+      "item_name": "2026-07-07 - Willie Dempsey - 2600449",
+      "fields": {
+        "date": "2026-07-07",
+        "work_performed": "Tearout - Set",
+        "job_number": "2600449",
+        "employee_name": "Willie Dempsey",
+        "start_time": "13:50",
+        "end_time": "15:05",
+        "total_hours": 1.25,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 8
+      }
+    },
+    {
+      "item_name": "2026-07-10 - Roger Huber - 2600509",
+      "fields": {
+        "date": "2026-07-10",
+        "work_performed": "Set Posts",
+        "job_number": "2600509",
+        "employee_name": "Roger Huber",
+        "start_time": "09:10",
+        "end_time": "10:35",
+        "total_hours": 1.42,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 9
+      }
+    },
+    {
+      "item_name": "2026-07-10 - Willie Dempsey - 2600509",
+      "fields": {
+        "date": "2026-07-10",
+        "work_performed": "Set Posts",
+        "job_number": "2600509",
+        "employee_name": "Willie Dempsey",
+        "start_time": "09:10",
+        "end_time": "10:35",
+        "total_hours": 1.42,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 9
+      }
+    },
+    {
+      "item_name": "2026-07-10 - Roger Huber - 2600449",
+      "fields": {
+        "date": "2026-07-10",
+        "work_performed": "Stretch Finish",
+        "job_number": "2600449",
+        "employee_name": "Roger Huber",
+        "start_time": "12:30",
+        "end_time": "14:45",
+        "total_hours": 2.25,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 10
+      }
+    },
+    {
+      "item_name": "2026-07-10 - Willie Dempsey - 2600449",
+      "fields": {
+        "date": "2026-07-10",
+        "work_performed": "Stretch Finish",
+        "job_number": "2600449",
+        "employee_name": "Willie Dempsey",
+        "start_time": "12:30",
+        "end_time": "14:45",
+        "total_hours": 2.25,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 10
+      }
+    },
+    {
+      "item_name": "2026-07-10 - Eric Mares - 2600520",
+      "fields": {
+        "date": "2026-07-10",
+        "work_performed": "Set",
+        "job_number": "2600520",
+        "employee_name": "Eric Mares",
+        "start_time": "08:20",
+        "end_time": "13:00",
+        "total_hours": 4.67,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 11
+      }
+    },
+    {
+      "item_name": "2026-07-10 - Felipe Morales - 2600520",
+      "fields": {
+        "date": "2026-07-10",
+        "work_performed": "Set",
+        "job_number": "2600520",
+        "employee_name": "Felipe Morales",
+        "start_time": "08:20",
+        "end_time": "13:00",
+        "total_hours": 4.67,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 11
+      }
+    },
+    {
+      "item_name": "2026-07-09 - Eric Mares - 2600512",
+      "fields": {
+        "date": "2026-07-09",
+        "work_performed": "Hang Gates",
+        "job_number": "2600512",
+        "employee_name": "Eric Mares",
+        "start_time": "09:30",
+        "end_time": "14:30",
+        "total_hours": 5.0,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 12
+      }
+    },
+    {
+      "item_name": "2026-07-09 - Felipe Morales - 2600512",
+      "fields": {
+        "date": "2026-07-09",
+        "work_performed": "Hang Gates",
+        "job_number": "2600512",
+        "employee_name": "Felipe Morales",
+        "start_time": "09:30",
+        "end_time": "14:30",
+        "total_hours": 5.0,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 12
+      }
+    },
+    {
+      "item_name": "2026-07-07 - Jose Moreno - 2600509",
+      "fields": {
+        "date": "2026-07-07",
+        "work_performed": "Set",
+        "job_number": "2600509",
+        "employee_name": "Jose Moreno",
+        "start_time": "08:20",
+        "end_time": "12:45",
+        "total_hours": 4.42,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 13
+      }
+    },
+    {
+      "item_name": "2026-07-07 - Marcelino Garza - 2600509",
+      "fields": {
+        "date": "2026-07-07",
+        "work_performed": "Set",
+        "job_number": "2600509",
+        "employee_name": "Marcelino Garza",
+        "start_time": "08:20",
+        "end_time": "12:45",
+        "total_hours": 4.42,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 13
+      }
+    },
+    {
+      "item_name": "2026-07-09 - Roger Huber - 2600378",
+      "fields": {
+        "date": "2026-07-09",
+        "work_performed": "Install Hand Rail",
+        "job_number": "2600378",
+        "employee_name": "Roger Huber",
+        "start_time": "09:45",
+        "end_time": "13:10",
+        "total_hours": 3.42,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 14
+      }
+    },
+    {
+      "item_name": "2026-07-09 - Willie Dempsey - 2600378",
+      "fields": {
+        "date": "2026-07-09",
+        "work_performed": "Install Hand Rail",
+        "job_number": "2600378",
+        "employee_name": "Willie Dempsey",
+        "start_time": "09:45",
+        "end_time": "13:10",
+        "total_hours": 3.42,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 14
+      }
+    },
+    {
+      "item_name": "2026-07-09 - Levi Saunders - 2600378",
+      "fields": {
+        "date": "2026-07-09",
+        "work_performed": "Install Hand Rail",
+        "job_number": "2600378",
+        "employee_name": "Levi Saunders",
+        "start_time": "09:45",
+        "end_time": "13:10",
+        "total_hours": 3.42,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 14
+      }
+    },
+    {
+      "item_name": "2026-07-08 - Eric Mares - 2600462",
+      "fields": {
+        "date": "2026-07-08",
+        "work_performed": "WORK PERFORMED NEEDED",
+        "job_number": "2600462",
+        "employee_name": "Eric Mares",
+        "start_time": "08:45",
+        "end_time": "15:35",
+        "total_hours": 6.83,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 16
+      }
+    },
+    {
+      "item_name": "2026-07-08 - Felipe Morales - 2600462",
+      "fields": {
+        "date": "2026-07-08",
+        "work_performed": "WORK PERFORMED NEEDED",
+        "job_number": "2600462",
+        "employee_name": "Felipe Morales",
+        "start_time": "08:45",
+        "end_time": "15:35",
+        "total_hours": 6.83,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 16
+      }
+    },
+    {
+      "item_name": "2026-07-08 - Jose Moreno - 2600509",
+      "fields": {
+        "date": "2026-07-08",
+        "work_performed": "Set",
+        "job_number": "2600509",
+        "employee_name": "Jose Moreno",
+        "start_time": "08:20",
+        "end_time": "14:25",
+        "total_hours": 6.08,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 17
+      }
+    },
+    {
+      "item_name": "2026-07-08 - Marcelino Garza - 2600509",
+      "fields": {
+        "date": "2026-07-08",
+        "work_performed": "Set",
+        "job_number": "2600509",
+        "employee_name": "Marcelino Garza",
+        "start_time": "08:20",
+        "end_time": "14:25",
+        "total_hours": 6.08,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 17
+      }
+    },
+    {
+      "item_name": "2026-07-08 - Roger Huber - 2600449",
+      "fields": {
+        "date": "2026-07-08",
+        "work_performed": "Set Posts",
+        "job_number": "2600449",
+        "employee_name": "Roger Huber",
+        "start_time": "08:05",
+        "end_time": "09:00",
+        "total_hours": 0.92,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 18
+      }
+    },
+    {
+      "item_name": "2026-07-08 - Willie Dempsey - 2600449",
+      "fields": {
+        "date": "2026-07-08",
+        "work_performed": "Set Posts",
+        "job_number": "2600449",
+        "employee_name": "Willie Dempsey",
+        "start_time": "08:05",
+        "end_time": "09:00",
+        "total_hours": 0.92,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 18
+      }
+    },
+    {
+      "item_name": "2026-07-07 - Jason Jamieson - 2600272",
+      "fields": {
+        "date": "2026-07-07",
+        "work_performed": "WORK PERFORMED NEEDED",
+        "job_number": "2600272",
+        "employee_name": "Jason Jamieson",
+        "start_time": "10:00",
+        "end_time": "12:00",
+        "total_hours": 2.0,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 19
+      }
+    },
+    {
+      "item_name": "2026-07-07 - Joshua Scott - 2600272",
+      "fields": {
+        "date": "2026-07-07",
+        "work_performed": "WORK PERFORMED NEEDED",
+        "job_number": "2600272",
+        "employee_name": "Joshua Scott",
+        "start_time": "10:00",
+        "end_time": "12:00",
+        "total_hours": 2.0,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 19
+      }
+    },
+    {
+      "item_name": "2026-07-07 - Eric Mares - 2600501",
+      "fields": {
+        "date": "2026-07-07",
+        "work_performed": "WORK PERFORMED NEEDED",
+        "job_number": "2600501",
+        "employee_name": "Eric Mares",
+        "start_time": "08:15",
+        "end_time": "10:50",
+        "total_hours": 2.58,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 21
+      }
+    },
+    {
+      "item_name": "2026-07-07 - Felipe Morales - 2600501",
+      "fields": {
+        "date": "2026-07-07",
+        "work_performed": "WORK PERFORMED NEEDED",
+        "job_number": "2600501",
+        "employee_name": "Felipe Morales",
+        "start_time": "08:15",
+        "end_time": "10:50",
+        "total_hours": 2.58,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 21
+      }
+    },
+    {
+      "item_name": "2026-07-06 - Jason Jamieson - 2600330",
+      "fields": {
+        "date": "2026-07-06",
+        "work_performed": "WORK PERFORMED NEEDED",
+        "job_number": "2600330",
+        "employee_name": "Jason Jamieson",
+        "start_time": "09:30",
+        "end_time": "11:00",
+        "total_hours": 1.5,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 23
+      }
+    },
+    {
+      "item_name": "2026-07-06 - Joshua Scott - 2600330",
+      "fields": {
+        "date": "2026-07-06",
+        "work_performed": "WORK PERFORMED NEEDED",
+        "job_number": "2600330",
+        "employee_name": "Joshua Scott",
+        "start_time": "09:30",
+        "end_time": "11:00",
+        "total_hours": 1.5,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 23
+      }
+    },
+    {
+      "item_name": "2026-07-06 - Eric Mares - 2600512",
+      "fields": {
+        "date": "2026-07-06",
+        "work_performed": "Set",
+        "job_number": "2600512",
+        "employee_name": "Eric Mares",
+        "start_time": "09:30",
+        "end_time": "15:15",
+        "total_hours": 5.75,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 24
+      }
+    },
+    {
+      "item_name": "2026-07-06 - Felipe Morales - 2600512",
+      "fields": {
+        "date": "2026-07-06",
+        "work_performed": "Set",
+        "job_number": "2600512",
+        "employee_name": "Felipe Morales",
+        "start_time": "09:30",
+        "end_time": "15:15",
+        "total_hours": 5.75,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 24
+      }
+    },
+    {
+      "item_name": "2026-07-06 - Zach Reitzer - 2600454",
+      "fields": {
+        "date": "2026-07-06",
+        "work_performed": "WORK PERFORMED NEEDED",
+        "job_number": "2600454",
+        "employee_name": "Zach Reitzer",
+        "start_time": "09:00",
+        "end_time": "14:45",
+        "total_hours": 5.75,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 25
+      }
+    },
+    {
+      "item_name": "2026-07-06 - Frank Olachea - 2600454",
+      "fields": {
+        "date": "2026-07-06",
+        "work_performed": "WORK PERFORMED NEEDED",
+        "job_number": "2600454",
+        "employee_name": "Frank Olachea",
+        "start_time": "09:00",
+        "end_time": "14:45",
+        "total_hours": 5.75,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 25
+      }
+    },
+    {
+      "item_name": "2026-07-06 - Roger Huber - 2600410",
+      "fields": {
+        "date": "2026-07-06",
+        "work_performed": "Repair Vinyl Gate",
+        "job_number": "2600410",
+        "employee_name": "Roger Huber",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "total_hours": 2.0,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 28
+      }
+    },
+    {
+      "item_name": "2026-07-06 - Willie Dempsey - 2600410",
+      "fields": {
+        "date": "2026-07-06",
+        "work_performed": "Repair Vinyl Gate",
+        "job_number": "2600410",
+        "employee_name": "Willie Dempsey",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "total_hours": 2.0,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 28
+      }
+    },
+    {
+      "item_name": "2026-07-06 - Levi Saunders - 2600353",
+      "fields": {
+        "date": "2026-07-06",
+        "work_performed": "Hand Rail",
+        "job_number": "2600353",
+        "employee_name": "Levi Saunders",
+        "start_time": "07:52",
+        "end_time": "11:00",
+        "total_hours": 3.13,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 29
+      }
+    },
+    {
+      "item_name": "2026-07-06 - Marcelino Garza - 2600353",
+      "fields": {
+        "date": "2026-07-06",
+        "work_performed": "Hand Rail",
+        "job_number": "2600353",
+        "employee_name": "Marcelino Garza",
+        "start_time": "07:52",
+        "end_time": "11:00",
+        "total_hours": 3.13,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 29
+      }
+    },
+    {
+      "item_name": "2026-07-06 - Roger Huber - 2600444",
+      "fields": {
+        "date": "2026-07-06",
+        "work_performed": "Cleanup / Pickup",
+        "job_number": "2600444",
+        "employee_name": "Roger Huber",
+        "start_time": "07:40",
+        "end_time": "08:30",
+        "total_hours": 0.83,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 30
+      }
+    },
+    {
+      "item_name": "2026-07-06 - Willie Dempsey - 2600444",
+      "fields": {
+        "date": "2026-07-06",
+        "work_performed": "Cleanup / Pickup",
+        "job_number": "2600444",
+        "employee_name": "Willie Dempsey",
+        "start_time": "07:40",
+        "end_time": "08:30",
+        "total_hours": 0.83,
+        "source_pdf": "incoming_timesheets/Week 28.pdf",
+        "source_page": 30
+      }
+    }
+  ],
+  "vibe": [
+    {
+      "record_name": "2026-07-10 - Jason Jamieson - 2600434",
+      "fields": {
+        "date": "2026-07-10",
+        "workPerformed": "Gate Operator",
+        "jobNumber": "2600434",
+        "employeeName": "Jason Jamieson",
+        "startTime": "09:43",
+        "endTime": "12:00",
+        "totalHours": 2.28,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 1
+      }
+    },
+    {
+      "record_name": "2026-07-10 - Zach Reitzer - 2600137",
+      "fields": {
+        "date": "2026-07-10",
+        "workPerformed": "Set",
+        "jobNumber": "2600137",
+        "employeeName": "Zach Reitzer",
+        "startTime": "10:00",
+        "endTime": "15:00",
+        "totalHours": 5.0,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 2
+      }
+    },
+    {
+      "record_name": "2026-07-10 - Frank Olachea - 2600137",
+      "fields": {
+        "date": "2026-07-10",
+        "workPerformed": "Set",
+        "jobNumber": "2600137",
+        "employeeName": "Frank Olachea",
+        "startTime": "10:00",
+        "endTime": "15:00",
+        "totalHours": 5.0,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 2
+      }
+    },
+    {
+      "record_name": "2026-07-09 - Zach Reitzer - 2600354",
+      "fields": {
+        "date": "2026-07-09",
+        "workPerformed": "Stretch",
+        "jobNumber": "2600354",
+        "employeeName": "Zach Reitzer",
+        "startTime": "07:20",
+        "endTime": "15:00",
+        "totalHours": 7.67,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 3
+      }
+    },
+    {
+      "record_name": "2026-07-09 - Frank Olachea - 2600354",
+      "fields": {
+        "date": "2026-07-09",
+        "workPerformed": "Stretch",
+        "jobNumber": "2600354",
+        "employeeName": "Frank Olachea",
+        "startTime": "07:20",
+        "endTime": "15:00",
+        "totalHours": 7.67,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 3
+      }
+    },
+    {
+      "record_name": "2026-07-08 - Zach Reitzer - 2600354",
+      "fields": {
+        "date": "2026-07-08",
+        "workPerformed": "Stretch",
+        "jobNumber": "2600354",
+        "employeeName": "Zach Reitzer",
+        "startTime": "08:00",
+        "endTime": "15:30",
+        "totalHours": 7.5,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 4
+      }
+    },
+    {
+      "record_name": "2026-07-08 - Frank Olachea - 2600354",
+      "fields": {
+        "date": "2026-07-08",
+        "workPerformed": "Stretch",
+        "jobNumber": "2600354",
+        "employeeName": "Frank Olachea",
+        "startTime": "08:00",
+        "endTime": "15:30",
+        "totalHours": 7.5,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 4
+      }
+    },
+    {
+      "record_name": "2026-07-07 - Zach Reitzer - 2600354",
+      "fields": {
+        "date": "2026-07-07",
+        "workPerformed": "Stretch",
+        "jobNumber": "2600354",
+        "employeeName": "Zach Reitzer",
+        "startTime": "09:30",
+        "endTime": "16:30",
+        "totalHours": 7.0,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 5
+      }
+    },
+    {
+      "record_name": "2026-07-07 - Frank Olachea - 2600354",
+      "fields": {
+        "date": "2026-07-07",
+        "workPerformed": "Stretch",
+        "jobNumber": "2600354",
+        "employeeName": "Frank Olachea",
+        "startTime": "09:30",
+        "endTime": "16:30",
+        "totalHours": 7.0,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 5
+      }
+    },
+    {
+      "record_name": "2026-07-09 - Jason Jamieson - 2600434",
+      "fields": {
+        "date": "2026-07-09",
+        "workPerformed": "Gate Operator",
+        "jobNumber": "2600434",
+        "employeeName": "Jason Jamieson",
+        "startTime": "10:23",
+        "endTime": "11:00",
+        "totalHours": 0.62,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 6
+      }
+    },
+    {
+      "record_name": "2026-07-09 - Joshua Scott - 2600434",
+      "fields": {
+        "date": "2026-07-09",
+        "workPerformed": "Gate Operator",
+        "jobNumber": "2600434",
+        "employeeName": "Joshua Scott",
+        "startTime": "10:23",
+        "endTime": "11:00",
+        "totalHours": 0.62,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 6
+      }
+    },
+    {
+      "record_name": "2026-07-07 - Roger Huber - 2600449",
+      "fields": {
+        "date": "2026-07-07",
+        "workPerformed": "Tearout - Set",
+        "jobNumber": "2600449",
+        "employeeName": "Roger Huber",
+        "startTime": "13:50",
+        "endTime": "15:05",
+        "totalHours": 1.25,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 8
+      }
+    },
+    {
+      "record_name": "2026-07-07 - Willie Dempsey - 2600449",
+      "fields": {
+        "date": "2026-07-07",
+        "workPerformed": "Tearout - Set",
+        "jobNumber": "2600449",
+        "employeeName": "Willie Dempsey",
+        "startTime": "13:50",
+        "endTime": "15:05",
+        "totalHours": 1.25,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 8
+      }
+    },
+    {
+      "record_name": "2026-07-10 - Roger Huber - 2600509",
+      "fields": {
+        "date": "2026-07-10",
+        "workPerformed": "Set Posts",
+        "jobNumber": "2600509",
+        "employeeName": "Roger Huber",
+        "startTime": "09:10",
+        "endTime": "10:35",
+        "totalHours": 1.42,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 9
+      }
+    },
+    {
+      "record_name": "2026-07-10 - Willie Dempsey - 2600509",
+      "fields": {
+        "date": "2026-07-10",
+        "workPerformed": "Set Posts",
+        "jobNumber": "2600509",
+        "employeeName": "Willie Dempsey",
+        "startTime": "09:10",
+        "endTime": "10:35",
+        "totalHours": 1.42,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 9
+      }
+    },
+    {
+      "record_name": "2026-07-10 - Roger Huber - 2600449",
+      "fields": {
+        "date": "2026-07-10",
+        "workPerformed": "Stretch Finish",
+        "jobNumber": "2600449",
+        "employeeName": "Roger Huber",
+        "startTime": "12:30",
+        "endTime": "14:45",
+        "totalHours": 2.25,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 10
+      }
+    },
+    {
+      "record_name": "2026-07-10 - Willie Dempsey - 2600449",
+      "fields": {
+        "date": "2026-07-10",
+        "workPerformed": "Stretch Finish",
+        "jobNumber": "2600449",
+        "employeeName": "Willie Dempsey",
+        "startTime": "12:30",
+        "endTime": "14:45",
+        "totalHours": 2.25,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 10
+      }
+    },
+    {
+      "record_name": "2026-07-10 - Eric Mares - 2600520",
+      "fields": {
+        "date": "2026-07-10",
+        "workPerformed": "Set",
+        "jobNumber": "2600520",
+        "employeeName": "Eric Mares",
+        "startTime": "08:20",
+        "endTime": "13:00",
+        "totalHours": 4.67,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 11
+      }
+    },
+    {
+      "record_name": "2026-07-10 - Felipe Morales - 2600520",
+      "fields": {
+        "date": "2026-07-10",
+        "workPerformed": "Set",
+        "jobNumber": "2600520",
+        "employeeName": "Felipe Morales",
+        "startTime": "08:20",
+        "endTime": "13:00",
+        "totalHours": 4.67,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 11
+      }
+    },
+    {
+      "record_name": "2026-07-09 - Eric Mares - 2600512",
+      "fields": {
+        "date": "2026-07-09",
+        "workPerformed": "Hang Gates",
+        "jobNumber": "2600512",
+        "employeeName": "Eric Mares",
+        "startTime": "09:30",
+        "endTime": "14:30",
+        "totalHours": 5.0,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 12
+      }
+    },
+    {
+      "record_name": "2026-07-09 - Felipe Morales - 2600512",
+      "fields": {
+        "date": "2026-07-09",
+        "workPerformed": "Hang Gates",
+        "jobNumber": "2600512",
+        "employeeName": "Felipe Morales",
+        "startTime": "09:30",
+        "endTime": "14:30",
+        "totalHours": 5.0,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 12
+      }
+    },
+    {
+      "record_name": "2026-07-07 - Jose Moreno - 2600509",
+      "fields": {
+        "date": "2026-07-07",
+        "workPerformed": "Set",
+        "jobNumber": "2600509",
+        "employeeName": "Jose Moreno",
+        "startTime": "08:20",
+        "endTime": "12:45",
+        "totalHours": 4.42,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 13
+      }
+    },
+    {
+      "record_name": "2026-07-07 - Marcelino Garza - 2600509",
+      "fields": {
+        "date": "2026-07-07",
+        "workPerformed": "Set",
+        "jobNumber": "2600509",
+        "employeeName": "Marcelino Garza",
+        "startTime": "08:20",
+        "endTime": "12:45",
+        "totalHours": 4.42,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 13
+      }
+    },
+    {
+      "record_name": "2026-07-09 - Roger Huber - 2600378",
+      "fields": {
+        "date": "2026-07-09",
+        "workPerformed": "Install Hand Rail",
+        "jobNumber": "2600378",
+        "employeeName": "Roger Huber",
+        "startTime": "09:45",
+        "endTime": "13:10",
+        "totalHours": 3.42,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 14
+      }
+    },
+    {
+      "record_name": "2026-07-09 - Willie Dempsey - 2600378",
+      "fields": {
+        "date": "2026-07-09",
+        "workPerformed": "Install Hand Rail",
+        "jobNumber": "2600378",
+        "employeeName": "Willie Dempsey",
+        "startTime": "09:45",
+        "endTime": "13:10",
+        "totalHours": 3.42,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 14
+      }
+    },
+    {
+      "record_name": "2026-07-09 - Levi Saunders - 2600378",
+      "fields": {
+        "date": "2026-07-09",
+        "workPerformed": "Install Hand Rail",
+        "jobNumber": "2600378",
+        "employeeName": "Levi Saunders",
+        "startTime": "09:45",
+        "endTime": "13:10",
+        "totalHours": 3.42,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 14
+      }
+    },
+    {
+      "record_name": "2026-07-08 - Eric Mares - 2600462",
+      "fields": {
+        "date": "2026-07-08",
+        "workPerformed": "WORK PERFORMED NEEDED",
+        "jobNumber": "2600462",
+        "employeeName": "Eric Mares",
+        "startTime": "08:45",
+        "endTime": "15:35",
+        "totalHours": 6.83,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 16
+      }
+    },
+    {
+      "record_name": "2026-07-08 - Felipe Morales - 2600462",
+      "fields": {
+        "date": "2026-07-08",
+        "workPerformed": "WORK PERFORMED NEEDED",
+        "jobNumber": "2600462",
+        "employeeName": "Felipe Morales",
+        "startTime": "08:45",
+        "endTime": "15:35",
+        "totalHours": 6.83,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 16
+      }
+    },
+    {
+      "record_name": "2026-07-08 - Jose Moreno - 2600509",
+      "fields": {
+        "date": "2026-07-08",
+        "workPerformed": "Set",
+        "jobNumber": "2600509",
+        "employeeName": "Jose Moreno",
+        "startTime": "08:20",
+        "endTime": "14:25",
+        "totalHours": 6.08,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 17
+      }
+    },
+    {
+      "record_name": "2026-07-08 - Marcelino Garza - 2600509",
+      "fields": {
+        "date": "2026-07-08",
+        "workPerformed": "Set",
+        "jobNumber": "2600509",
+        "employeeName": "Marcelino Garza",
+        "startTime": "08:20",
+        "endTime": "14:25",
+        "totalHours": 6.08,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 17
+      }
+    },
+    {
+      "record_name": "2026-07-08 - Roger Huber - 2600449",
+      "fields": {
+        "date": "2026-07-08",
+        "workPerformed": "Set Posts",
+        "jobNumber": "2600449",
+        "employeeName": "Roger Huber",
+        "startTime": "08:05",
+        "endTime": "09:00",
+        "totalHours": 0.92,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 18
+      }
+    },
+    {
+      "record_name": "2026-07-08 - Willie Dempsey - 2600449",
+      "fields": {
+        "date": "2026-07-08",
+        "workPerformed": "Set Posts",
+        "jobNumber": "2600449",
+        "employeeName": "Willie Dempsey",
+        "startTime": "08:05",
+        "endTime": "09:00",
+        "totalHours": 0.92,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 18
+      }
+    },
+    {
+      "record_name": "2026-07-07 - Jason Jamieson - 2600272",
+      "fields": {
+        "date": "2026-07-07",
+        "workPerformed": "WORK PERFORMED NEEDED",
+        "jobNumber": "2600272",
+        "employeeName": "Jason Jamieson",
+        "startTime": "10:00",
+        "endTime": "12:00",
+        "totalHours": 2.0,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 19
+      }
+    },
+    {
+      "record_name": "2026-07-07 - Joshua Scott - 2600272",
+      "fields": {
+        "date": "2026-07-07",
+        "workPerformed": "WORK PERFORMED NEEDED",
+        "jobNumber": "2600272",
+        "employeeName": "Joshua Scott",
+        "startTime": "10:00",
+        "endTime": "12:00",
+        "totalHours": 2.0,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 19
+      }
+    },
+    {
+      "record_name": "2026-07-07 - Eric Mares - 2600501",
+      "fields": {
+        "date": "2026-07-07",
+        "workPerformed": "WORK PERFORMED NEEDED",
+        "jobNumber": "2600501",
+        "employeeName": "Eric Mares",
+        "startTime": "08:15",
+        "endTime": "10:50",
+        "totalHours": 2.58,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 21
+      }
+    },
+    {
+      "record_name": "2026-07-07 - Felipe Morales - 2600501",
+      "fields": {
+        "date": "2026-07-07",
+        "workPerformed": "WORK PERFORMED NEEDED",
+        "jobNumber": "2600501",
+        "employeeName": "Felipe Morales",
+        "startTime": "08:15",
+        "endTime": "10:50",
+        "totalHours": 2.58,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 21
+      }
+    },
+    {
+      "record_name": "2026-07-06 - Jason Jamieson - 2600330",
+      "fields": {
+        "date": "2026-07-06",
+        "workPerformed": "WORK PERFORMED NEEDED",
+        "jobNumber": "2600330",
+        "employeeName": "Jason Jamieson",
+        "startTime": "09:30",
+        "endTime": "11:00",
+        "totalHours": 1.5,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 23
+      }
+    },
+    {
+      "record_name": "2026-07-06 - Joshua Scott - 2600330",
+      "fields": {
+        "date": "2026-07-06",
+        "workPerformed": "WORK PERFORMED NEEDED",
+        "jobNumber": "2600330",
+        "employeeName": "Joshua Scott",
+        "startTime": "09:30",
+        "endTime": "11:00",
+        "totalHours": 1.5,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 23
+      }
+    },
+    {
+      "record_name": "2026-07-06 - Eric Mares - 2600512",
+      "fields": {
+        "date": "2026-07-06",
+        "workPerformed": "Set",
+        "jobNumber": "2600512",
+        "employeeName": "Eric Mares",
+        "startTime": "09:30",
+        "endTime": "15:15",
+        "totalHours": 5.75,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 24
+      }
+    },
+    {
+      "record_name": "2026-07-06 - Felipe Morales - 2600512",
+      "fields": {
+        "date": "2026-07-06",
+        "workPerformed": "Set",
+        "jobNumber": "2600512",
+        "employeeName": "Felipe Morales",
+        "startTime": "09:30",
+        "endTime": "15:15",
+        "totalHours": 5.75,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 24
+      }
+    },
+    {
+      "record_name": "2026-07-06 - Zach Reitzer - 2600454",
+      "fields": {
+        "date": "2026-07-06",
+        "workPerformed": "WORK PERFORMED NEEDED",
+        "jobNumber": "2600454",
+        "employeeName": "Zach Reitzer",
+        "startTime": "09:00",
+        "endTime": "14:45",
+        "totalHours": 5.75,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 25
+      }
+    },
+    {
+      "record_name": "2026-07-06 - Frank Olachea - 2600454",
+      "fields": {
+        "date": "2026-07-06",
+        "workPerformed": "WORK PERFORMED NEEDED",
+        "jobNumber": "2600454",
+        "employeeName": "Frank Olachea",
+        "startTime": "09:00",
+        "endTime": "14:45",
+        "totalHours": 5.75,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 25
+      }
+    },
+    {
+      "record_name": "2026-07-06 - Roger Huber - INDIRECT",
+      "fields": {
+        "date": "2026-07-06",
+        "workPerformed": "Indirect Time",
+        "jobNumber": "INDIRECT",
+        "employeeName": "Roger Huber",
+        "startTime": "09:10",
+        "endTime": "10:35",
+        "totalHours": 1.42,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 27
+      }
+    },
+    {
+      "record_name": "2026-07-06 - Willie Dempsey - INDIRECT",
+      "fields": {
+        "date": "2026-07-06",
+        "workPerformed": "Indirect Time",
+        "jobNumber": "INDIRECT",
+        "employeeName": "Willie Dempsey",
+        "startTime": "09:10",
+        "endTime": "10:35",
+        "totalHours": 1.42,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 27
+      }
+    },
+    {
+      "record_name": "2026-07-06 - Roger Huber - 2600410",
+      "fields": {
+        "date": "2026-07-06",
+        "workPerformed": "Repair Vinyl Gate",
+        "jobNumber": "2600410",
+        "employeeName": "Roger Huber",
+        "startTime": "12:30",
+        "endTime": "14:30",
+        "totalHours": 2.0,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 28
+      }
+    },
+    {
+      "record_name": "2026-07-06 - Willie Dempsey - 2600410",
+      "fields": {
+        "date": "2026-07-06",
+        "workPerformed": "Repair Vinyl Gate",
+        "jobNumber": "2600410",
+        "employeeName": "Willie Dempsey",
+        "startTime": "12:30",
+        "endTime": "14:30",
+        "totalHours": 2.0,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 28
+      }
+    },
+    {
+      "record_name": "2026-07-06 - Levi Saunders - 2600353",
+      "fields": {
+        "date": "2026-07-06",
+        "workPerformed": "Hand Rail",
+        "jobNumber": "2600353",
+        "employeeName": "Levi Saunders",
+        "startTime": "07:52",
+        "endTime": "11:00",
+        "totalHours": 3.13,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 29
+      }
+    },
+    {
+      "record_name": "2026-07-06 - Marcelino Garza - 2600353",
+      "fields": {
+        "date": "2026-07-06",
+        "workPerformed": "Hand Rail",
+        "jobNumber": "2600353",
+        "employeeName": "Marcelino Garza",
+        "startTime": "07:52",
+        "endTime": "11:00",
+        "totalHours": 3.13,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 29
+      }
+    },
+    {
+      "record_name": "2026-07-06 - Roger Huber - 2600444",
+      "fields": {
+        "date": "2026-07-06",
+        "workPerformed": "Cleanup / Pickup",
+        "jobNumber": "2600444",
+        "employeeName": "Roger Huber",
+        "startTime": "07:40",
+        "endTime": "08:30",
+        "totalHours": 0.83,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 30
+      }
+    },
+    {
+      "record_name": "2026-07-06 - Willie Dempsey - 2600444",
+      "fields": {
+        "date": "2026-07-06",
+        "workPerformed": "Cleanup / Pickup",
+        "jobNumber": "2600444",
+        "employeeName": "Willie Dempsey",
+        "startTime": "07:40",
+        "endTime": "08:30",
+        "totalHours": 0.83,
+        "sourcePdf": "incoming_timesheets/Week 28.pdf",
+        "sourcePage": 30
+      }
+    }
+  ]
+}

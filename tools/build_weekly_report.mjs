@@ -85,12 +85,14 @@ const sections = isStructuredModel
         end_time: entry.end_time,
         hours: entry.total_hours ?? "",
         include_in_summary: entry.include_in_summary,
+        prevailing_wage: Boolean(entry.prevailing_wage),
       })),
     }))
   : extraction.sections.map((section) => {
       const jobNumber = normalizeJobNumber(section.job_number, section.date);
       const people = uniquePeople(section.people);
       const hours = hoursBetween(section.on_site_start, section.on_site_end);
+      const prevailingWage = Boolean(section.prevailing_wage || section.pw || section.PW);
       return {
         date: section.date,
         work_performed: section.work_performed,
@@ -101,6 +103,7 @@ const sections = isStructuredModel
           end_time: section.on_site_end,
           hours,
           include_in_summary: hours !== "" && person !== readingRules.placeholders?.unknown_lead,
+          prevailing_wage: prevailingWage,
         })),
       };
     });
@@ -174,6 +177,14 @@ for (const section of sections) {
     style: "thin",
     color: "#B7C9D6",
   };
+  section.entries.forEach((entry, index) => {
+    if (entry.prevailing_wage) {
+      weekly.getRange(`A${row + index}`).format.font = {
+        bold: true,
+        color: "#C00000",
+      };
+    }
+  });
   weekly.getRange(`E${row}:E${row + rows.length - 1}`).format.numberFormat = "0.00";
   row += rows.length + 2;
 }

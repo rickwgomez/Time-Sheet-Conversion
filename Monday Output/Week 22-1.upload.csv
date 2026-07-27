@@ -1,0 +1,34 @@
+Employee,Project,Hours,Date,Type,Description
+Zach Reitzer,2600398,6.17,2026-05-28,Billable,Set
+Felipe Morales,2600398,6.17,2026-05-28,Billable,Set
+Jose Moreno,2600398,3.23,2026-05-28,Billable,Stretch Finish
+Frank Olachea,2600398,3.23,2026-05-28,Billable,Stretch Finish
+Zach Reitzer,2600361,4.5,2026-05-26,Billable,Set
+Felipe Morales,2600361,4.5,2026-05-26,Billable,Set
+Zach Reitzer,2501097,6.3,2026-05-29,Billable,Hang Gates
+Felipe Morales,2501097,6.3,2026-05-29,Billable,Hang Gates
+Jose Moreno,2600344,6.2,2026-05-22,Billable,Set
+Frank Olachea,2600344,6.2,2026-05-22,Billable,Set
+Jose Moreno,2600344,6.35,2026-05-29,Billable,Set
+Frank Olachea,2600344,6.35,2026-05-29,Billable,Set
+Willie Dempsey,2600344,6.35,2026-05-29,Billable,Set
+Eric Mares,2600310,3.33,2026-05-28,Billable,Stretch Finish
+Marcelino Garza,2600310,3.33,2026-05-28,Billable,Stretch Finish
+Eric Mares,2600285,0.7,2026-05-26,Billable,Gate Pull
+Marcelino Garza,2600285,0.7,2026-05-26,Billable,Gate Pull
+Eric Mares,2600282,1.93,2026-05-26,Billable,Hang Gates
+Marcelino Garza,2600282,1.93,2026-05-26,Billable,Hang Gates
+Eric Mares,2600257,5.03,2026-05-29,Billable,Finish
+Willie Dempsey,2600257,5.03,2026-05-29,Billable,Finish
+Marcelino Garza,2600257,5.03,2026-05-29,Billable,Finish
+Levi Saunders,2600316,0.5,2026-05-28,Billable,Replaced Gate Latch
+Roger Huber,2600316,4.92,2026-05-26,Billable,Stretch Finish
+Willie Dempsey,2600316,4.92,2026-05-26,Billable,Stretch Finish
+Roger Huber,2600316,1.67,2026-05-27,Billable,Stretch Finish
+Willie Dempsey,2600316,1.67,2026-05-27,Billable,Stretch Finish
+Jason Jamieson,2600249,3.55,2026-05-27,Billable,Hang Gate
+Joshua Scott,2600249,3.55,2026-05-27,Billable,Hang Gate
+Jason Jamieson,2600260,0.73,2026-05-26,Billable,Gate Opener
+Joshua Scott,2600260,0.73,2026-05-26,Billable,Gate Opener
+Jason Jamieson,2600249,2.7,2026-05-29,Billable,Repair Wire
+Joshua Scott,2600249,2.7,2026-05-29,Billable,Repair Wire

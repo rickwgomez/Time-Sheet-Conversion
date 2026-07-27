@@ -36,6 +36,7 @@ class TimecardEntry:
     end_time: str
     total_hours: float | None
     include_in_summary: bool
+    prevailing_wage: bool = False
 
 
 @dataclass(frozen=True)
@@ -101,7 +102,10 @@ def normalize_job_number(job_number: str, date_text: str, rules: dict[str, Any])
         return job_number
     if not isinstance(date_text, str) or len(date_text) < 4 or not date_text[:4].isdigit():
         return job_number
-    return f"{date_text[2:4]}{job_number[2:]}"
+    expected_prefix = date_text[2:4]
+    if job_number[:2] == f"3{expected_prefix[1]}":
+        return f"{expected_prefix}{job_number[2:]}"
+    return job_number
 
 
 def normalize_employee_name(name: str, rules: dict[str, Any]) -> str:
@@ -139,6 +143,18 @@ def unique_people(people: list[str], rules: dict[str, Any]) -> list[str]:
     return result
 
 
+def is_monday_job_number(job_number: str, date_text: str, rules: dict[str, Any]) -> bool:
+    job_rules = rules.get("job_number_rules", {})
+    expected_digits = int(job_rules.get("expected_digits", 7))
+    if not isinstance(job_number, str) or not job_number.isdigit() or len(job_number) != expected_digits:
+        return False
+    if not isinstance(date_text, str) or len(date_text) < 4 or not date_text[:4].isdigit():
+        return False
+    work_year = int(date_text[:4])
+    allowed_prefixes = {str(work_year)[2:4], str(work_year - 1)[2:4]}
+    return job_number[:2] in allowed_prefixes
+
+
 def build_weekly_timecard(extraction_path: Path, rules_path: Path = DEFAULT_RULES) -> WeeklyTimecard:
     extraction = load_json(extraction_path)
     rules = load_json(rules_path)
@@ -155,6 +171,11 @@ def build_weekly_timecard(extraction_path: Path, rules_path: Path = DEFAULT_RULE
         work_performed = raw_section["work_performed"]
         job_number = normalize_job_number(raw_section["job_number"], date_text, rules)
         total_hours = hours_between(raw_section["on_site_start"], raw_section["on_site_end"])
+        prevailing_wage = bool(
+            raw_section.get("prevailing_wage")
+            or raw_section.get("pw")
+            or raw_section.get("PW")
+        )
         entries: list[TimecardEntry] = []
 
         for person in unique_people(raw_section.get("people", []), rules):
@@ -172,6 +193,7 @@ def build_weekly_timecard(extraction_path: Path, rules_path: Path = DEFAULT_RULE
                 end_time=raw_section["on_site_end"],
                 total_hours=total_hours,
                 include_in_summary=include_in_summary,
+                prevailing_wage=prevailing_wage,
             )
             entries.append(entry)
 
@@ -213,11 +235,17 @@ def map_entry_fields(entry: dict[str, Any], field_map: dict[str, str]) -> dict[s
 
 def build_app_payload(model: WeeklyTimecard, mapping_path: Path = DEFAULT_MAPPING) -> dict[str, Any]:
     mapping = load_json(mapping_path)
+    rules = load_json(DEFAULT_RULES)
     entries = [
         asdict(entry)
         for section in model.sections
         for entry in section.entries
         if entry.include_in_summary
+    ]
+    monday_entries = [
+        entry
+        for entry in entries
+        if is_monday_job_number(str(entry.get("job_number", "")), str(entry.get("date", "")), rules)
     ]
 
     monday = mapping["monday"]
@@ -229,7 +257,7 @@ def build_app_payload(model: WeeklyTimecard, mapping_path: Path = DEFAULT_MAPPIN
                 "item_name": render_template(monday["item_name"], entry),
                 "fields": map_entry_fields(entry, monday["fields"]),
             }
-            for entry in entries
+            for entry in monday_entries
         ],
         "vibe": [
             {
@@ -242,12 +270,13 @@ def build_app_payload(model: WeeklyTimecard, mapping_path: Path = DEFAULT_MAPPIN
 
 
 def build_ui_entry_queue(model: WeeklyTimecard) -> list[dict[str, Any]]:
+    rules = load_json(DEFAULT_RULES)
     rows: list[dict[str, Any]] = []
     for section in model.sections:
         for entry in section.entries:
             if not entry.include_in_summary:
                 continue
-            if not entry.job_number.isdigit():
+            if not is_monday_job_number(entry.job_number, entry.date, rules):
                 continue
             rows.append(
                 {
@@ -261,6 +290,70 @@ def build_ui_entry_queue(model: WeeklyTimecard) -> list[dict[str, Any]]:
                 }
             )
     return rows
+
+
+def monday_skip_reasons(entry: TimecardEntry, rules: dict[str, Any]) -> list[str]:
+    reasons: list[str] = []
+    if not entry.include_in_summary:
+        reasons.append("not included in weekly hours")
+    if not is_monday_job_number(entry.job_number, entry.date, rules):
+        reasons.append("missing or invalid Monday job number")
+    return reasons
+
+
+def build_human_intervention_report(model: WeeklyTimecard) -> list[dict[str, Any]]:
+    rules = load_json(DEFAULT_RULES)
+    rows: list[dict[str, Any]] = []
+    seen: set[tuple[Any, ...]] = set()
+    for section in model.sections:
+        for entry in section.entries:
+            reasons = monday_skip_reasons(entry, rules)
+            if not reasons:
+                continue
+            key = (
+                entry.source_page,
+                entry.date,
+                entry.work_performed,
+                entry.job_number,
+                entry.employee_name,
+                entry.start_time,
+                entry.end_time,
+            )
+            if key in seen:
+                continue
+            seen.add(key)
+            rows.append(
+                {
+                    "source_page": entry.source_page,
+                    "date": entry.date,
+                    "work_performed": entry.work_performed,
+                    "job_number": entry.job_number,
+                    "employee_name": entry.employee_name,
+                    "start_time": entry.start_time,
+                    "end_time": entry.end_time,
+                    "total_hours": entry.total_hours,
+                    "reasons": reasons,
+                }
+            )
+    return rows
+
+
+def print_human_intervention_report(model: WeeklyTimecard) -> None:
+    rows = build_human_intervention_report(model)
+    print()
+    if not rows:
+        print("Human intervention needed before Monday upload: none")
+        return
+    print(f"Human intervention needed before Monday upload: {len(rows)} row(s)")
+    for row in rows:
+        hours = "" if row["total_hours"] is None else f", hours {row['total_hours']}"
+        print(
+            " - "
+            f"Page {row['source_page']}, {row['date']}, {row['work_performed']}: "
+            f"job {row['job_number']}, {row['employee_name']}, "
+            f"{row['start_time']}-{row['end_time']}{hours}. "
+            f"Reason: {'; '.join(row['reasons'])}."
+        )
 
 
 def save_json(path: Path, payload: dict[str, Any]) -> None:
@@ -317,6 +410,7 @@ def main() -> int:
     if "ui-queue" in selected_outputs:
         save_json(output_dir / f"{model.output_base_name}.ui_entry_queue.json", {"entries": build_ui_entry_queue(model)})
 
+    print_human_intervention_report(model)
     print(json.dumps(model.to_dict(), indent=2))
     return 0
 

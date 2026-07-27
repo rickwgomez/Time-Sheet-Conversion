@@ -1,35 +1,35 @@
 Employee,Project,Hours,Date,Type,Description
-Eric Mares,2600206,6.92,2026-06-10,Billable,Stretch Finish
-Marcelino Garza,2600206,6.92,2026-06-10,Billable,Stretch Finish
-Eric Mares,2600106,0.92,2026-06-11,Billable,Finish
-Marcelino Garza,2600106,0.92,2026-06-11,Billable,Finish
-Zach Reitzer,2600227,5.5,2026-06-09,Billable,Stretch Finish
-Felipe Morales,2600227,5.5,2026-06-09,Billable,Stretch Finish
-Jose Moreno,2600227,5.5,2026-06-09,Billable,Stretch Finish
-Frank Olachea,2600227,5.5,2026-06-09,Billable,Stretch Finish
-Zach Reitzer,2600227,6.67,2026-06-08,Billable,Stretch Finish
-Felipe Morales,2600227,6.67,2026-06-08,Billable,Stretch Finish
-Zach Reitzer,2600331,4.5,2026-06-11,Billable,Hang Gates
-Felipe Morales,2600331,4.5,2026-06-11,Billable,Hang Gates
-Zach Reitzer,2600227,3.5,2026-06-10,Billable,Stretch Finish
-Felipe Morales,2600227,3.5,2026-06-10,Billable,Stretch Finish
-Jose Moreno,2600227,3.5,2026-06-10,Billable,Stretch Finish
-Frank Olachea,2600227,3.5,2026-06-10,Billable,Stretch Finish
-Levi Saunders,2600227,3.5,2026-06-10,Billable,Stretch Finish
-Roger Huber,2600348,3.33,2026-06-11,Billable,Tear Out and Set
-Willie Dempsey,2600348,3.33,2026-06-11,Billable,Tear Out and Set
-Roger Huber,2600348,4.83,2026-06-12,Billable,Set Posts / Tear Out
-Willie Dempsey,2600348,4.83,2026-06-12,Billable,Set Posts / Tear Out
-Felipe Morales,2600348,4.83,2026-06-12,Billable,Set Posts / Tear Out
-Roger Huber,2600360,3.33,2026-06-10,Billable,WORK PERFORMED NEEDED
-Willie Dempsey,2600360,3.33,2026-06-10,Billable,WORK PERFORMED NEEDED
-Roger Huber,2600398,1.92,2026-06-10,Billable,Stretch Finish
-Willie Dempsey,2600398,1.92,2026-06-10,Billable,Stretch Finish
-Roger Huber,2600320,6.58,2026-06-09,Billable,Repairs
-Willie Dempsey,2600320,6.58,2026-06-09,Billable,Repairs
-Eric Mares,2600482,3.45,2026-06-12,Billable,Set
-Marcelino Garza,2600482,3.45,2026-06-12,Billable,Set
-Jason Jamieson,2600285,4.72,2026-06-09,Billable,WORK PERFORMED NEEDED
-Joshua Scott,2600285,4.72,2026-06-09,Billable,WORK PERFORMED NEEDED
-Jose Moreno,2600227,6.47,2026-06-08,Billable,Repairs
-Frank Olachea,2600227,6.47,2026-06-08,Billable,Repairs
+Eric Mares,2600106,0.92,6/11/2026,Billable,Finish
+Eric Mares,2600206,6.92,6/10/2026,Billable,Stretch Finish
+Eric Mares,2600452,3.45,6/12/2026,Billable,Set
+Felipe Morales,2600227,5.5,6/9/2026,Billable,Stretch Finish
+Felipe Morales,2600227,6.67,6/8/2026,Billable,Stretch Finish
+Felipe Morales,2600227,3.5,6/10/2026,Billable,Stretch Finish
+Felipe Morales,2600331,4.5,6/11/2026,Billable,Hang Gates
+Felipe Morales,2600348,4.83,6/12/2026,Billable,Set Posts / Tear Out
+Frank Olachea,2600227,5.5,6/9/2026,Billable,Stretch Finish
+Frank Olachea,2600227,3.5,6/10/2026,Billable,Stretch Finish
+Frank Olachea,2600227,6.47,6/8/2026,Billable,Repairs
+Jason Jamieson,2600285,4.72,6/9/2026,Billable,WORK PERFORMED NEEDED
+Jose Moreno,2600227,5.5,6/9/2026,Billable,Stretch Finish
+Jose Moreno,2600227,3.5,6/10/2026,Billable,Stretch Finish
+Jose Moreno,2600227,6.47,6/8/2026,Billable,Repairs
+Joshua Scott,2600285,4.72,6/9/2026,Billable,WORK PERFORMED NEEDED
+Levi Saunders,2600227,3.5,6/10/2026,Billable,Stretch Finish
+Marcelino Garza,2600106,0.92,6/11/2026,Billable,Finish
+Marcelino Garza,2600206,6.92,6/10/2026,Billable,Stretch Finish
+Marcelino Garza,2600452,3.45,6/12/2026,Billable,Set
+Roger Huber,2600320,6.58,6/9/2026,Billable,Repairs
+Roger Huber,2600348,3.33,6/11/2026,Billable,Tear Out and Set
+Roger Huber,2600348,4.83,6/12/2026,Billable,Set Posts / Tear Out
+Roger Huber,2600360,3.33,6/10/2026,Billable,WORK PERFORMED NEEDED
+Roger Huber,2600398,1.92,6/10/2026,Billable,Stretch Finish
+Willie Dempsey,2600320,6.58,6/9/2026,Billable,Repairs
+Willie Dempsey,2600348,3.33,6/11/2026,Billable,Tear Out and Set
+Willie Dempsey,2600348,4.83,6/12/2026,Billable,Set Posts / Tear Out
+Willie Dempsey,2600360,3.33,6/10/2026,Billable,WORK PERFORMED NEEDED
+Willie Dempsey,2600398,1.92,6/10/2026,Billable,Stretch Finish
+Zach Reitzer,2600227,5.5,6/9/2026,Billable,Stretch Finish
+Zach Reitzer,2600227,6.67,6/8/2026,Billable,Stretch Finish
+Zach Reitzer,2600227,3.5,6/10/2026,Billable,Stretch Finish
+Zach Reitzer,2600331,4.5,6/11/2026,Billable,Hang Gates

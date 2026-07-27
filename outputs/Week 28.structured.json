@@ -1,0 +1,839 @@
+{
+  "source_pdf": "incoming_timesheets/Week 28.pdf",
+  "output_base_name": "Week 28",
+  "sections": [
+    {
+      "source_page": 1,
+      "date": "2026-07-10",
+      "work_performed": "Gate Operator",
+      "entries": [
+        {
+          "source_page": 1,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-10",
+          "work_performed": "Gate Operator",
+          "job_number": "2600434",
+          "employee_name": "Jason Jamieson",
+          "start_time": "09:43",
+          "end_time": "12:00",
+          "total_hours": 2.28,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 2,
+      "date": "2026-07-10",
+      "work_performed": "Set",
+      "entries": [
+        {
+          "source_page": 2,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-10",
+          "work_performed": "Set",
+          "job_number": "2600137",
+          "employee_name": "Zach Reitzer",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "total_hours": 5.0,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 2,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-10",
+          "work_performed": "Set",
+          "job_number": "2600137",
+          "employee_name": "Frank Olachea",
+          "start_time": "10:00",
+          "end_time": "15:00",
+          "total_hours": 5.0,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 3,
+      "date": "2026-07-09",
+      "work_performed": "Stretch",
+      "entries": [
+        {
+          "source_page": 3,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-09",
+          "work_performed": "Stretch",
+          "job_number": "2600354",
+          "employee_name": "Zach Reitzer",
+          "start_time": "07:20",
+          "end_time": "15:00",
+          "total_hours": 7.67,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 3,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-09",
+          "work_performed": "Stretch",
+          "job_number": "2600354",
+          "employee_name": "Frank Olachea",
+          "start_time": "07:20",
+          "end_time": "15:00",
+          "total_hours": 7.67,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 4,
+      "date": "2026-07-08",
+      "work_performed": "Stretch",
+      "entries": [
+        {
+          "source_page": 4,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-08",
+          "work_performed": "Stretch",
+          "job_number": "2600354",
+          "employee_name": "Zach Reitzer",
+          "start_time": "08:00",
+          "end_time": "15:30",
+          "total_hours": 7.5,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 4,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-08",
+          "work_performed": "Stretch",
+          "job_number": "2600354",
+          "employee_name": "Frank Olachea",
+          "start_time": "08:00",
+          "end_time": "15:30",
+          "total_hours": 7.5,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 5,
+      "date": "2026-07-07",
+      "work_performed": "Stretch",
+      "entries": [
+        {
+          "source_page": 5,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-07",
+          "work_performed": "Stretch",
+          "job_number": "2600354",
+          "employee_name": "Zach Reitzer",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "total_hours": 7.0,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 5,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-07",
+          "work_performed": "Stretch",
+          "job_number": "2600354",
+          "employee_name": "Frank Olachea",
+          "start_time": "09:30",
+          "end_time": "16:30",
+          "total_hours": 7.0,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 6,
+      "date": "2026-07-09",
+      "work_performed": "Gate Operator",
+      "entries": [
+        {
+          "source_page": 6,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-09",
+          "work_performed": "Gate Operator",
+          "job_number": "2600434",
+          "employee_name": "Jason Jamieson",
+          "start_time": "10:23",
+          "end_time": "11:00",
+          "total_hours": 0.62,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 6,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-09",
+          "work_performed": "Gate Operator",
+          "job_number": "2600434",
+          "employee_name": "Joshua Scott",
+          "start_time": "10:23",
+          "end_time": "11:00",
+          "total_hours": 0.62,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 8,
+      "date": "2026-07-07",
+      "work_performed": "Tearout - Set",
+      "entries": [
+        {
+          "source_page": 8,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-07",
+          "work_performed": "Tearout - Set",
+          "job_number": "2600449",
+          "employee_name": "Roger Huber",
+          "start_time": "13:50",
+          "end_time": "15:05",
+          "total_hours": 1.25,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 8,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-07",
+          "work_performed": "Tearout - Set",
+          "job_number": "2600449",
+          "employee_name": "Willie Dempsey",
+          "start_time": "13:50",
+          "end_time": "15:05",
+          "total_hours": 1.25,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 9,
+      "date": "2026-07-10",
+      "work_performed": "Set Posts",
+      "entries": [
+        {
+          "source_page": 9,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-10",
+          "work_performed": "Set Posts",
+          "job_number": "2600509",
+          "employee_name": "Roger Huber",
+          "start_time": "09:10",
+          "end_time": "10:35",
+          "total_hours": 1.42,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 9,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-10",
+          "work_performed": "Set Posts",
+          "job_number": "2600509",
+          "employee_name": "Willie Dempsey",
+          "start_time": "09:10",
+          "end_time": "10:35",
+          "total_hours": 1.42,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 10,
+      "date": "2026-07-10",
+      "work_performed": "Stretch Finish",
+      "entries": [
+        {
+          "source_page": 10,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-10",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600449",
+          "employee_name": "Roger Huber",
+          "start_time": "12:30",
+          "end_time": "14:45",
+          "total_hours": 2.25,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 10,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-10",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600449",
+          "employee_name": "Willie Dempsey",
+          "start_time": "12:30",
+          "end_time": "14:45",
+          "total_hours": 2.25,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 11,
+      "date": "2026-07-10",
+      "work_performed": "Set",
+      "entries": [
+        {
+          "source_page": 11,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-10",
+          "work_performed": "Set",
+          "job_number": "2600520",
+          "employee_name": "Eric Mares",
+          "start_time": "08:20",
+          "end_time": "13:00",
+          "total_hours": 4.67,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 11,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-10",
+          "work_performed": "Set",
+          "job_number": "2600520",
+          "employee_name": "Felipe Morales",
+          "start_time": "08:20",
+          "end_time": "13:00",
+          "total_hours": 4.67,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 12,
+      "date": "2026-07-09",
+      "work_performed": "Hang Gates",
+      "entries": [
+        {
+          "source_page": 12,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-09",
+          "work_performed": "Hang Gates",
+          "job_number": "2600512",
+          "employee_name": "Eric Mares",
+          "start_time": "09:30",
+          "end_time": "14:30",
+          "total_hours": 5.0,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 12,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-09",
+          "work_performed": "Hang Gates",
+          "job_number": "2600512",
+          "employee_name": "Felipe Morales",
+          "start_time": "09:30",
+          "end_time": "14:30",
+          "total_hours": 5.0,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 13,
+      "date": "2026-07-07",
+      "work_performed": "Set",
+      "entries": [
+        {
+          "source_page": 13,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-07",
+          "work_performed": "Set",
+          "job_number": "2600509",
+          "employee_name": "Jose Moreno",
+          "start_time": "08:20",
+          "end_time": "12:45",
+          "total_hours": 4.42,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 13,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-07",
+          "work_performed": "Set",
+          "job_number": "2600509",
+          "employee_name": "Marcelino Garza",
+          "start_time": "08:20",
+          "end_time": "12:45",
+          "total_hours": 4.42,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 14,
+      "date": "2026-07-09",
+      "work_performed": "Install Hand Rail",
+      "entries": [
+        {
+          "source_page": 14,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-09",
+          "work_performed": "Install Hand Rail",
+          "job_number": "2600378",
+          "employee_name": "Roger Huber",
+          "start_time": "09:45",
+          "end_time": "13:10",
+          "total_hours": 3.42,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 14,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-09",
+          "work_performed": "Install Hand Rail",
+          "job_number": "2600378",
+          "employee_name": "Willie Dempsey",
+          "start_time": "09:45",
+          "end_time": "13:10",
+          "total_hours": 3.42,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 14,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-09",
+          "work_performed": "Install Hand Rail",
+          "job_number": "2600378",
+          "employee_name": "Levi Saunders",
+          "start_time": "09:45",
+          "end_time": "13:10",
+          "total_hours": 3.42,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 16,
+      "date": "2026-07-08",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "entries": [
+        {
+          "source_page": 16,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-08",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600462",
+          "employee_name": "Eric Mares",
+          "start_time": "08:45",
+          "end_time": "15:35",
+          "total_hours": 6.83,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 16,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-08",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600462",
+          "employee_name": "Felipe Morales",
+          "start_time": "08:45",
+          "end_time": "15:35",
+          "total_hours": 6.83,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 17,
+      "date": "2026-07-08",
+      "work_performed": "Set",
+      "entries": [
+        {
+          "source_page": 17,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-08",
+          "work_performed": "Set",
+          "job_number": "2600509",
+          "employee_name": "Jose Moreno",
+          "start_time": "08:20",
+          "end_time": "14:25",
+          "total_hours": 6.08,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 17,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-08",
+          "work_performed": "Set",
+          "job_number": "2600509",
+          "employee_name": "Marcelino Garza",
+          "start_time": "08:20",
+          "end_time": "14:25",
+          "total_hours": 6.08,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 18,
+      "date": "2026-07-08",
+      "work_performed": "Set Posts",
+      "entries": [
+        {
+          "source_page": 18,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-08",
+          "work_performed": "Set Posts",
+          "job_number": "2600449",
+          "employee_name": "Roger Huber",
+          "start_time": "08:05",
+          "end_time": "09:00",
+          "total_hours": 0.92,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 18,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-08",
+          "work_performed": "Set Posts",
+          "job_number": "2600449",
+          "employee_name": "Willie Dempsey",
+          "start_time": "08:05",
+          "end_time": "09:00",
+          "total_hours": 0.92,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 19,
+      "date": "2026-07-07",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "entries": [
+        {
+          "source_page": 19,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-07",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600272",
+          "employee_name": "Jason Jamieson",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "total_hours": 2.0,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 19,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-07",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600272",
+          "employee_name": "Joshua Scott",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "total_hours": 2.0,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 21,
+      "date": "2026-07-07",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "entries": [
+        {
+          "source_page": 21,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-07",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600501",
+          "employee_name": "Eric Mares",
+          "start_time": "08:15",
+          "end_time": "10:50",
+          "total_hours": 2.58,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 21,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-07",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600501",
+          "employee_name": "Felipe Morales",
+          "start_time": "08:15",
+          "end_time": "10:50",
+          "total_hours": 2.58,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 23,
+      "date": "2026-07-06",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "entries": [
+        {
+          "source_page": 23,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-06",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600330",
+          "employee_name": "Jason Jamieson",
+          "start_time": "09:30",
+          "end_time": "11:00",
+          "total_hours": 1.5,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 23,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-06",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600330",
+          "employee_name": "Joshua Scott",
+          "start_time": "09:30",
+          "end_time": "11:00",
+          "total_hours": 1.5,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 24,
+      "date": "2026-07-06",
+      "work_performed": "Set",
+      "entries": [
+        {
+          "source_page": 24,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-06",
+          "work_performed": "Set",
+          "job_number": "2600512",
+          "employee_name": "Eric Mares",
+          "start_time": "09:30",
+          "end_time": "15:15",
+          "total_hours": 5.75,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 24,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-06",
+          "work_performed": "Set",
+          "job_number": "2600512",
+          "employee_name": "Felipe Morales",
+          "start_time": "09:30",
+          "end_time": "15:15",
+          "total_hours": 5.75,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 25,
+      "date": "2026-07-06",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "entries": [
+        {
+          "source_page": 25,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-06",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600454",
+          "employee_name": "Zach Reitzer",
+          "start_time": "09:00",
+          "end_time": "14:45",
+          "total_hours": 5.75,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 25,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-06",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600454",
+          "employee_name": "Frank Olachea",
+          "start_time": "09:00",
+          "end_time": "14:45",
+          "total_hours": 5.75,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 27,
+      "date": "2026-07-06",
+      "work_performed": "Indirect Time",
+      "entries": [
+        {
+          "source_page": 27,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-06",
+          "work_performed": "Indirect Time",
+          "job_number": "INDIRECT",
+          "employee_name": "Roger Huber",
+          "start_time": "09:10",
+          "end_time": "10:35",
+          "total_hours": 1.42,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 27,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-06",
+          "work_performed": "Indirect Time",
+          "job_number": "INDIRECT",
+          "employee_name": "Willie Dempsey",
+          "start_time": "09:10",
+          "end_time": "10:35",
+          "total_hours": 1.42,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 28,
+      "date": "2026-07-06",
+      "work_performed": "Repair Vinyl Gate",
+      "entries": [
+        {
+          "source_page": 28,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-06",
+          "work_performed": "Repair Vinyl Gate",
+          "job_number": "2600410",
+          "employee_name": "Roger Huber",
+          "start_time": "12:30",
+          "end_time": "14:30",
+          "total_hours": 2.0,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 28,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-06",
+          "work_performed": "Repair Vinyl Gate",
+          "job_number": "2600410",
+          "employee_name": "Willie Dempsey",
+          "start_time": "12:30",
+          "end_time": "14:30",
+          "total_hours": 2.0,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 29,
+      "date": "2026-07-06",
+      "work_performed": "Hand Rail",
+      "entries": [
+        {
+          "source_page": 29,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-06",
+          "work_performed": "Hand Rail",
+          "job_number": "2600353",
+          "employee_name": "Levi Saunders",
+          "start_time": "07:52",
+          "end_time": "11:00",
+          "total_hours": 3.13,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 29,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-06",
+          "work_performed": "Hand Rail",
+          "job_number": "2600353",
+          "employee_name": "Marcelino Garza",
+          "start_time": "07:52",
+          "end_time": "11:00",
+          "total_hours": 3.13,
+          "include_in_summary": true
+        }
+      ]
+    },
+    {
+      "source_page": 30,
+      "date": "2026-07-06",
+      "work_performed": "Cleanup / Pickup",
+      "entries": [
+        {
+          "source_page": 30,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-06",
+          "work_performed": "Cleanup / Pickup",
+          "job_number": "2600444",
+          "employee_name": "Roger Huber",
+          "start_time": "07:40",
+          "end_time": "08:30",
+          "total_hours": 0.83,
+          "include_in_summary": true
+        },
+        {
+          "source_page": 30,
+          "source_pdf": "incoming_timesheets/Week 28.pdf",
+          "date": "2026-07-06",
+          "work_performed": "Cleanup / Pickup",
+          "job_number": "2600444",
+          "employee_name": "Willie Dempsey",
+          "start_time": "07:40",
+          "end_time": "08:30",
+          "total_hours": 0.83,
+          "include_in_summary": true
+        }
+      ]
+    }
+  ],
+  "summary": [
+    {
+      "employee_name": "Eric Mares",
+      "on_site_entries": 5,
+      "total_on_site_hours": 24.83
+    },
+    {
+      "employee_name": "Felipe Morales",
+      "on_site_entries": 5,
+      "total_on_site_hours": 24.83
+    },
+    {
+      "employee_name": "Frank Olachea",
+      "on_site_entries": 5,
+      "total_on_site_hours": 32.92
+    },
+    {
+      "employee_name": "Jason Jamieson",
+      "on_site_entries": 4,
+      "total_on_site_hours": 6.4
+    },
+    {
+      "employee_name": "Jose Moreno",
+      "on_site_entries": 2,
+      "total_on_site_hours": 10.5
+    },
+    {
+      "employee_name": "Joshua Scott",
+      "on_site_entries": 3,
+      "total_on_site_hours": 4.12
+    },
+    {
+      "employee_name": "Levi Saunders",
+      "on_site_entries": 2,
+      "total_on_site_hours": 6.55
+    },
+    {
+      "employee_name": "Marcelino Garza",
+      "on_site_entries": 3,
+      "total_on_site_hours": 13.63
+    },
+    {
+      "employee_name": "Roger Huber",
+      "on_site_entries": 8,
+      "total_on_site_hours": 13.51
+    },
+    {
+      "employee_name": "Willie Dempsey",
+      "on_site_entries": 8,
+      "total_on_site_hours": 13.51
+    },
+    {
+      "employee_name": "Zach Reitzer",
+      "on_site_entries": 5,
+      "total_on_site_hours": 32.92
+    }
+  ],
+  "model_version": "timecard.weekly_on_site.v1"
+}

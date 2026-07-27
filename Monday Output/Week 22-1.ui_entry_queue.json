@@ -1,0 +1,270 @@
+{
+  "source_workbook": "C:\\Users\\RGomez\\OneDrive - Outdoor Fence\\Documents\\Time Card Reading\\outputs\\Week 22-1.xlsx",
+  "source_sheet": "Weekly On Site",
+  "entries": [
+    {
+      "employee_name": "Zach Reitzer",
+      "Project": "2600398",
+      "Hours": 6.17,
+      "Date": "2026-05-28",
+      "Type": "Billable",
+      "Description": "Set"
+    },
+    {
+      "employee_name": "Felipe Morales",
+      "Project": "2600398",
+      "Hours": 6.17,
+      "Date": "2026-05-28",
+      "Type": "Billable",
+      "Description": "Set"
+    },
+    {
+      "employee_name": "Jose Moreno",
+      "Project": "2600398",
+      "Hours": 3.23,
+      "Date": "2026-05-28",
+      "Type": "Billable",
+      "Description": "Stretch Finish"
+    },
+    {
+      "employee_name": "Frank Olachea",
+      "Project": "2600398",
+      "Hours": 3.23,
+      "Date": "2026-05-28",
+      "Type": "Billable",
+      "Description": "Stretch Finish"
+    },
+    {
+      "employee_name": "Zach Reitzer",
+      "Project": "2600361",
+      "Hours": 4.5,
+      "Date": "2026-05-26",
+      "Type": "Billable",
+      "Description": "Set"
+    },
+    {
+      "employee_name": "Felipe Morales",
+      "Project": "2600361",
+      "Hours": 4.5,
+      "Date": "2026-05-26",
+      "Type": "Billable",
+      "Description": "Set"
+    },
+    {
+      "employee_name": "Zach Reitzer",
+      "Project": "2501097",
+      "Hours": 6.3,
+      "Date": "2026-05-29",
+      "Type": "Billable",
+      "Description": "Hang Gates"
+    },
+    {
+      "employee_name": "Felipe Morales",
+      "Project": "2501097",
+      "Hours": 6.3,
+      "Date": "2026-05-29",
+      "Type": "Billable",
+      "Description": "Hang Gates"
+    },
+    {
+      "employee_name": "Jose Moreno",
+      "Project": "2600344",
+      "Hours": 6.2,
+      "Date": "2026-05-22",
+      "Type": "Billable",
+      "Description": "Set"
+    },
+    {
+      "employee_name": "Frank Olachea",
+      "Project": "2600344",
+      "Hours": 6.2,
+      "Date": "2026-05-22",
+      "Type": "Billable",
+      "Description": "Set"
+    },
+    {
+      "employee_name": "Jose Moreno",
+      "Project": "2600344",
+      "Hours": 6.35,
+      "Date": "2026-05-29",
+      "Type": "Billable",
+      "Description": "Set"
+    },
+    {
+      "employee_name": "Frank Olachea",
+      "Project": "2600344",
+      "Hours": 6.35,
+      "Date": "2026-05-29",
+      "Type": "Billable",
+      "Description": "Set"
+    },
+    {
+      "employee_name": "Willie Dempsey",
+      "Project": "2600344",
+      "Hours": 6.35,
+      "Date": "2026-05-29",
+      "Type": "Billable",
+      "Description": "Set"
+    },
+    {
+      "employee_name": "Eric Mares",
+      "Project": "2600310",
+      "Hours": 3.33,
+      "Date": "2026-05-28",
+      "Type": "Billable",
+      "Description": "Stretch Finish"
+    },
+    {
+      "employee_name": "Marcelino Garza",
+      "Project": "2600310",
+      "Hours": 3.33,
+      "Date": "2026-05-28",
+      "Type": "Billable",
+      "Description": "Stretch Finish"
+    },
+    {
+      "employee_name": "Eric Mares",
+      "Project": "2600285",
+      "Hours": 0.7,
+      "Date": "2026-05-26",
+      "Type": "Billable",
+      "Description": "Gate Pull"
+    },
+    {
+      "employee_name": "Marcelino Garza",
+      "Project": "2600285",
+      "Hours": 0.7,
+      "Date": "2026-05-26",
+      "Type": "Billable",
+      "Description": "Gate Pull"
+    },
+    {
+      "employee_name": "Eric Mares",
+      "Project": "2600282",
+      "Hours": 1.93,
+      "Date": "2026-05-26",
+      "Type": "Billable",
+      "Description": "Hang Gates"
+    },
+    {
+      "employee_name": "Marcelino Garza",
+      "Project": "2600282",
+      "Hours": 1.93,
+      "Date": "2026-05-26",
+      "Type": "Billable",
+      "Description": "Hang Gates"
+    },
+    {
+      "employee_name": "Eric Mares",
+      "Project": "2600257",
+      "Hours": 5.03,
+      "Date": "2026-05-29",
+      "Type": "Billable",
+      "Description": "Finish"
+    },
+    {
+      "employee_name": "Willie Dempsey",
+      "Project": "2600257",
+      "Hours": 5.03,
+      "Date": "2026-05-29",
+      "Type": "Billable",
+      "Description": "Finish"
+    },
+    {
+      "employee_name": "Marcelino Garza",
+      "Project": "2600257",
+      "Hours": 5.03,
+      "Date": "2026-05-29",
+      "Type": "Billable",
+      "Description": "Finish"
+    },
+    {
+      "employee_name": "Levi Saunders",
+      "Project": "2600316",
+      "Hours": 0.5,
+      "Date": "2026-05-28",
+      "Type": "Billable",
+      "Description": "Replaced Gate Latch"
+    },
+    {
+      "employee_name": "Roger Huber",
+      "Project": "2600316",
+      "Hours": 4.92,
+      "Date": "2026-05-26",
+      "Type": "Billable",
+      "Description": "Stretch Finish"
+    },
+    {
+      "employee_name": "Willie Dempsey",
+      "Project": "2600316",
+      "Hours": 4.92,
+      "Date": "2026-05-26",
+      "Type": "Billable",
+      "Description": "Stretch Finish"
+    },
+    {
+      "employee_name": "Roger Huber",
+      "Project": "2600316",
+      "Hours": 1.67,
+      "Date": "2026-05-27",
+      "Type": "Billable",
+      "Description": "Stretch Finish"
+    },
+    {
+      "employee_name": "Willie Dempsey",
+      "Project": "2600316",
+      "Hours": 1.67,
+      "Date": "2026-05-27",
+      "Type": "Billable",
+      "Description": "Stretch Finish"
+    },
+    {
+      "employee_name": "Jason Jamieson",
+      "Project": "2600249",
+      "Hours": 3.55,
+      "Date": "2026-05-27",
+      "Type": "Billable",
+      "Description": "Hang Gate"
+    },
+    {
+      "employee_name": "Joshua Scott",
+      "Project": "2600249",
+      "Hours": 3.55,
+      "Date": "2026-05-27",
+      "Type": "Billable",
+      "Description": "Hang Gate"
+    },
+    {
+      "employee_name": "Jason Jamieson",
+      "Project": "2600260",
+      "Hours": 0.73,
+      "Date": "2026-05-26",
+      "Type": "Billable",
+      "Description": "Gate Opener"
+    },
+    {
+      "employee_name": "Joshua Scott",
+      "Project": "2600260",
+      "Hours": 0.73,
+      "Date": "2026-05-26",
+      "Type": "Billable",
+      "Description": "Gate Opener"
+    },
+    {
+      "employee_name": "Jason Jamieson",
+      "Project": "2600249",
+      "Hours": 2.7,
+      "Date": "2026-05-29",
+      "Type": "Billable",
+      "Description": "Repair Wire"
+    },
+    {
+      "employee_name": "Joshua Scott",
+      "Project": "2600249",
+      "Hours": 2.7,
+      "Date": "2026-05-29",
+      "Type": "Billable",
+      "Description": "Repair Wire"
+    }
+  ]
+}

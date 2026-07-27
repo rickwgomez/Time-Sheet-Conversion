@@ -1,0 +1,53 @@
+Employee,Project,Hours,Date,Type,Description
+Zach Reitzer,2600035,6.33,2026-07-17,Billable,Set
+Frank Olachea,2600035,6.33,2026-07-17,Billable,Set
+Zach Reitzer,2600137,7.0,2026-07-13,Billable,Set
+Frank Olachea,2600137,7.0,2026-07-13,Billable,Set
+Zach Reitzer,2600376,5.25,2026-07-14,Billable,Repair
+Frank Olachea,2600376,5.25,2026-07-14,Billable,Repair
+Zach Reitzer,2600376,6.0,2026-07-15,Billable,Repair
+Frank Olachea,2600376,6.0,2026-07-15,Billable,Repair
+Zach Reitzer,2600376,6.0,2026-07-16,Billable,Repair
+Frank Olachea,2600376,6.0,2026-07-16,Billable,Repair
+Jason Jamieson,2600434,3.0,2026-07-13,Billable,Solar Gate Prep
+Joshua Scott,2600434,3.0,2026-07-13,Billable,Solar Gate Prep
+Jason Jamieson,2600285,2.97,2026-07-14,Billable,WORK PERFORMED NEEDED
+Jason Jamieson,2600285,3.05,2026-07-15,Billable,WORK PERFORMED NEEDED
+Joshua Scott,2600285,3.05,2026-07-15,Billable,WORK PERFORMED NEEDED
+Jason Jamieson,2600434,7.5,2026-07-16,Billable,Adjusting Gate
+Joshua Scott,2600434,7.5,2026-07-16,Billable,Adjusting Gate
+Jason Jamieson,2600137,2.25,2026-07-16,Billable,PM Wiremap
+Joshua Scott,2600137,2.25,2026-07-16,Billable,PM Wiremap
+Jason Jamieson,2600363,2.92,2026-07-17,Billable,Gate Operator
+Eric Mares,2600447,5.75,2026-07-13,Billable,Tear Out
+Felipe Morales,2600447,5.75,2026-07-13,Billable,Tear Out
+Eric Mares,2600447,7.25,2026-07-14,Billable,Tear Out
+Felipe Morales,2600447,7.25,2026-07-14,Billable,Tear Out
+Eric Mares,2600520,3.33,2026-07-15,Billable,Stretch Finish
+Felipe Morales,2600520,3.33,2026-07-15,Billable,Stretch Finish
+Eric Mares,2600447,1.83,2026-07-15,Billable,Tear Out
+Felipe Morales,2600447,1.83,2026-07-15,Billable,Tear Out
+Marcelino Garza,2600447,1.83,2026-07-15,Billable,Tear Out
+Eric Mares,2600447,5.75,2026-07-16,Billable,Tear Out
+Felipe Morales,2600447,5.75,2026-07-16,Billable,Tear Out
+Eric Mares,2600447,7.25,2026-07-17,Billable,Set Stands
+Felipe Morales,2600447,7.25,2026-07-17,Billable,Set Stands
+Roger Huber,2600449,6.5,2026-07-13,Billable,Stretch Finish
+Willie Dempsey,2600449,6.5,2026-07-13,Billable,Stretch Finish
+Roger Huber,2600285,4.83,2026-07-14,Billable,Hang Gates
+Willie Dempsey,2600285,4.83,2026-07-14,Billable,Hang Gates
+Roger Huber,2600118,3.0,2026-07-15,Billable,Set
+Willie Dempsey,2600118,3.0,2026-07-15,Billable,Set
+Roger Huber,2600118,4.75,2026-07-16,Billable,Set
+Willie Dempsey,2600118,4.75,2026-07-16,Billable,Set
+Roger Huber,2600118,4.92,2026-07-17,Billable,Set Posts
+Willie Dempsey,2600118,4.92,2026-07-17,Billable,Set Posts
+Jose Moreno,2600509,5.38,2026-07-13,Billable,Training
+Marcelino Garza,2600509,5.38,2026-07-13,Billable,Training
+Jose Moreno,2600509,5.65,2026-07-14,Billable,Training Set
+Marcelino Garza,2600509,5.65,2026-07-14,Billable,Training Set
+Jose Moreno,2600354,1.33,2026-07-15,Billable,Install Swage Rod
+Jose Moreno,2600483,6.0,2026-07-16,Billable,Set
+Marcelino Garza,2600483,6.0,2026-07-16,Billable,Set
+Jose Moreno,2600483,6.07,2026-07-17,Billable,Set
+Marcelino Garza,2600483,6.07,2026-07-17,Billable,Set

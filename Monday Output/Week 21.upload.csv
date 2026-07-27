@@ -1,0 +1,45 @@
+Employee,Project,Hours,Date,Type,Description
+Jason Jamieson,2600163,1.67,2026-05-18,Billable,Gate Operator
+Joshua Scott,2600163,1.67,2026-05-18,Billable,Gate Operator
+Jason Jamieson,2600260,3.37,2026-05-20,Billable,Pad for Operator
+Joshua Scott,2600260,3.37,2026-05-20,Billable,Pad for Operator
+Jason Jamieson,2600260,1.35,2026-05-20,Billable,Poor Pad
+Joshua Scott,2600260,1.35,2026-05-20,Billable,Poor Pad
+Jason Jamieson,2600260,3.25,2026-05-21,Billable,Pad
+Joshua Scott,2600260,3.25,2026-05-21,Billable,Pad
+Roger Huber,2600282,7.0,2026-05-18,Billable,WORK PERFORMED NEEDED
+Willie Dempsey,2600282,7.0,2026-05-18,Billable,WORK PERFORMED NEEDED
+Roger Huber,2600357,6.67,2026-05-19,Billable,WORK PERFORMED NEEDED
+Willie Dempsey,2600357,6.67,2026-05-19,Billable,WORK PERFORMED NEEDED
+Roger Huber,2600257,2.98,2026-05-20,Billable,Hang Gates / Install Slats
+Levi Saunders,2600257,2.98,2026-05-20,Billable,Hang Gates / Install Slats
+Roger Huber,2600357,5.62,2026-05-21,Billable,Set Posts
+Willie Dempsey,2600357,5.62,2026-05-21,Billable,Set Posts
+Roger Huber,2600257,3.67,2026-05-22,Billable,Set Posts
+Willie Dempsey,2600257,3.67,2026-05-22,Billable,Set Posts
+Zach Reitzer,2600087,4.42,2026-05-18,Billable,Hand Rails
+Felipe Morales,2600087,4.42,2026-05-18,Billable,Hand Rails
+Jose Moreno,2600087,4.42,2026-05-18,Billable,Hand Rails
+Zach Reitzer,2600087,2.75,2026-05-19,Billable,Hand Rails
+Felipe Morales,2600087,2.75,2026-05-19,Billable,Hand Rails
+Frank Olachea,2600087,2.75,2026-05-19,Billable,Hand Rails
+Zach Reitzer,2600312,7.83,2026-05-21,Billable,Hang Gates
+Felipe Morales,2600312,7.83,2026-05-21,Billable,Hang Gates
+Zach Reitzer,2600312,2.0,2026-05-22,Billable,Hang Gates
+Felipe Morales,2600312,2.0,2026-05-22,Billable,Hang Gates
+Jose Moreno,2600360,6.58,2026-05-20,Billable,Set
+Frank Olachea,2600360,6.58,2026-05-20,Billable,Set
+Jose Moreno,2600387,4.92,2026-05-21,Billable,Set Posts
+Frank Olachea,2600387,4.92,2026-05-21,Billable,Set Posts
+Jose Moreno,2600364,2.15,2026-05-22,Billable,Set
+Frank Olachea,2600364,2.15,2026-05-22,Billable,Set
+Eric Mares,2600302,2.33,2026-05-18,Billable,Set
+Marcelino Garza,2600302,2.33,2026-05-18,Billable,Set
+Eric Mares,2600295,3.42,2026-05-18,Billable,Repair
+Marcelino Garza,2600295,3.42,2026-05-18,Billable,Repair
+Eric Mares,2600322,6.33,2026-05-19,Billable,Set
+Marcelino Garza,2600322,6.33,2026-05-19,Billable,Set
+Eric Mares,2600310,7.08,2026-05-20,Billable,Set
+Marcelino Garza,2600310,7.08,2026-05-20,Billable,Set
+Eric Mares,2600310,7.17,2026-05-21,Billable,Removal + Set
+Marcelino Garza,2600310,7.17,2026-05-21,Billable,Removal + Set

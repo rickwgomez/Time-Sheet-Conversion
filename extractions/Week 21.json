@@ -1,0 +1,28 @@
+{
+  "source_pdf": "incoming_timesheets/Week 21.pdf",
+  "sections": [
+    {"page":1,"date":"2026-05-18","work_performed":"Gate Operator","job_number":"2600163","on_site_start":"09:05","on_site_end":"10:45","people":["Jason","Josh"]},
+    {"page":2,"date":"2026-05-20","work_performed":"Pad for Operator","job_number":"2600260","on_site_start":"12:08","on_site_end":"15:30","people":["Jason","Josh"]},
+    {"page":3,"date":"2026-05-20","work_performed":"Poor Pad","job_number":"2600260","on_site_start":"09:29","on_site_end":"10:50","people":["Jason","Josh"]},
+    {"page":4,"date":"2026-05-21","work_performed":"Pad","job_number":"2600260","on_site_start":"08:22","on_site_end":"11:37","people":["Jason","Josh"]},
+    {"page":5,"date":"2026-05-22","work_performed":"Layout for Concrete","job_number":"JOB# NEEDED","on_site_start":"10:30","on_site_end":"11:00","people":["Jason"]},
+    {"page":6,"date":"2026-05-18","work_performed":"WORK PERFORMED NEEDED","job_number":"2600282","on_site_start":"08:15","on_site_end":"15:15","people":["Roger","Willie"]},
+    {"page":7,"date":"2026-05-19","work_performed":"WORK PERFORMED NEEDED","job_number":"2600357","on_site_start":"09:15","on_site_end":"15:55","people":["Roger","Willie"]},
+    {"page":8,"date":"2026-05-20","work_performed":"Hang Gates / Install Slats","job_number":"2600257","on_site_start":"08:36","on_site_end":"11:35","people":["Roger","Levi"]},
+    {"page":9,"date":"2026-05-21","work_performed":"Set Posts","job_number":"2600357","on_site_start":"09:40","on_site_end":"15:17","people":["Roger","Willie"]},
+    {"page":10,"date":"2026-05-22","work_performed":"Set Posts","job_number":"2600257","on_site_start":"08:50","on_site_end":"12:30","people":["Roger","Willie"]},
+    {"page":11,"date":"2026-05-18","work_performed":"Hand Rails","job_number":"2600087","on_site_start":"08:00","on_site_end":"12:25","people":["Zach","Felipe","Jose"]},
+    {"page":12,"date":"2026-05-19","work_performed":"Hand Rails","job_number":"2600087","on_site_start":"08:00","on_site_end":"10:45","people":["Zach","Felipe","Frank"]},
+    {"page":13,"date":"2026-05-20","work_performed":"Repair","job_number":"JOB# NEEDED","on_site_start":"08:15","on_site_end":"09:06","people":["Zach","Felipe"]},
+    {"page":14,"date":"2026-05-21","work_performed":"Hang Gates","job_number":"2600312","on_site_start":"10:10","on_site_end":"18:00","people":["Zach","Felipe"]},
+    {"page":15,"date":"2026-05-22","work_performed":"Hang Gates","job_number":"2600312","on_site_start":"07:05","on_site_end":"09:05","people":["Zach","Felipe"]},
+    {"page":16,"date":"2026-05-20","work_performed":"Set","job_number":"2600360","on_site_start":"08:30","on_site_end":"15:05","people":["Jose","Frank"]},
+    {"page":17,"date":"2026-05-21","work_performed":"Set Posts","job_number":"2600387","on_site_start":"08:25","on_site_end":"13:20","people":["Jose","Frank"]},
+    {"page":18,"date":"2026-05-22","work_performed":"Set","job_number":"2600364","on_site_start":"08:45","on_site_end":"10:54","people":["Jose","Frank"]},
+    {"page":19,"date":"2026-05-18","work_performed":"Set","job_number":"2600302","on_site_start":"08:55","on_site_end":"11:15","people":["Eric","Marcelino"]},
+    {"page":20,"date":"2026-05-18","work_performed":"Repair","job_number":"2600295","on_site_start":"11:15","on_site_end":"14:40","people":["Eric","Marcelino"]},
+    {"page":21,"date":"2026-05-19","work_performed":"Set","job_number":"2600322","on_site_start":"09:30","on_site_end":"15:50","people":["Eric","Marcelino"]},
+    {"page":22,"date":"2026-05-20","work_performed":"Set","job_number":"2600310","on_site_start":"08:30","on_site_end":"15:35","people":["Eric","Marcelino"]},
+    {"page":23,"date":"2026-05-21","work_performed":"Removal + Set","job_number":"2600310","on_site_start":"07:50","on_site_end":"15:00","people":["Eric","Marcelino"]}
+  ]
+}

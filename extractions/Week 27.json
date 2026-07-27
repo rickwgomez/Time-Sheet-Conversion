@@ -1,0 +1,25 @@
+{
+  "source_pdf": "incoming_timesheets/Week 27.pdf",
+  "sections": [
+    {"page":1,"date":"2026-06-29","work_performed":"Set","job_number":"2600354","on_site_start":"10:30","on_site_end":"17:30","people":["Zach","Frank"]},
+    {"page":2,"date":"2026-06-30","work_performed":"Set","job_number":"2600354","on_site_start":"07:20","on_site_end":"12:30","people":["Zach","Frank"]},
+    {"page":3,"date":"2026-07-01","work_performed":"WORK PERFORMED NEEDED","job_number":"2600354","on_site_start":"07:20","on_site_end":"11:00","people":["Zach","Frank"]},
+    {"page":4,"date":"2026-07-01","work_performed":"WORK PERFORMED NEEDED","job_number":"2600206","on_site_start":"09:00","on_site_end":"15:00","people":["Zach","Frank"]},
+    {"page":5,"date":"2026-06-30","work_performed":"Stretch Finish","job_number":"2600348","on_site_start":"08:20","on_site_end":"13:00","people":["Roger","Willie"]},
+    {"page":6,"date":"2026-07-01","work_performed":"Stretch Finish","job_number":"2600348","on_site_start":"08:50","on_site_end":"13:50","people":["Roger","Willie"]},
+    {"page":7,"date":"2026-07-02","work_performed":"Stretch Finish","job_number":"2600444","on_site_start":"07:50","on_site_end":"16:40","people":["Roger","Willie"]},
+    {"page":8,"date":"2026-07-02","work_performed":"City of Newport","job_number":"2600272","on_site_start":"10:00","on_site_end":"12:15","people":["Jose","Levi"]},
+    {"page":9,"date":"2026-07-02","work_performed":"Hand Rails","job_number":"2600363","on_site_start":"09:32","on_site_end":"10:40","people":["Jose","Marcelino"]},
+    {"page":10,"date":"2026-06-29","work_performed":"Set","job_number":"2600423","on_site_start":"08:50","on_site_end":"14:22","people":["Jose","Marcelino","Willie"]},
+    {"page":11,"date":"2026-06-30","work_performed":"Repair","job_number":"2600428","on_site_start":"08:15","on_site_end":"15:00","people":["Jose","Marcelino"]},
+    {"page":12,"date":"2026-06-30","work_performed":"Install More Gates","job_number":"2600449","on_site_start":"10:30","on_site_end":"13:45","people":["Gary Bell"]},
+    {"page":13,"date":"2026-06-29","work_performed":"Botdown","job_number":"2600440","on_site_start":"08:45","on_site_end":"15:00","people":["Eric","Felipe"]},
+    {"page":14,"date":"2026-06-30","work_performed":"Botdowns","job_number":"2600440","on_site_start":"07:15","on_site_end":"15:00","people":["Eric","Felipe"]},
+    {"page":15,"date":"2026-07-01","work_performed":"Stretch Finish","job_number":"2600440","on_site_start":"07:15","on_site_end":"13:45","people":["Eric","Felipe"]},
+    {"page":16,"date":"2026-07-02","work_performed":"Stretch Finish","job_number":"2600440","on_site_start":"07:30","on_site_end":"14:25","people":["Eric","Felipe"]},
+    {"page":17,"date":"2026-06-29","work_performed":"At Shop / Driving / On Site","job_number":"2600287","on_site_start":"11:41","on_site_end":"12:00","people":["Jason","Josh"]},
+    {"page":18,"date":"2026-06-30","work_performed":"Gate Operator","job_number":"2600287","on_site_start":"11:37","on_site_end":"11:41","people":["Jason","Josh"]},
+    {"page":19,"date":"2026-07-01","work_performed":"Gate Operator","job_number":"2600287","on_site_start":"12:07","on_site_end":"12:20","people":["Jason","Josh"]},
+    {"page":20,"date":"2026-07-02","work_performed":"Gate Operator","job_number":"2600330","on_site_start":"10:44","on_site_end":"13:00","people":["Jason","Josh"]}
+  ]
+}

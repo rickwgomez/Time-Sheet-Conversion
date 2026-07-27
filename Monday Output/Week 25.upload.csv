@@ -1,48 +1,48 @@
 Employee,Project,Hours,Date,Type,Description
-Jason Jamieson,2600260,4.42,2026-06-16,Billable,Gate Op Pad
-Joshua Scott,2600260,4.42,2026-06-16,Billable,Gate Op Pad
-Jason Jamieson,2600272,2.58,2026-06-18,Billable,Pad
-Joshua Scott,2600272,2.58,2026-06-18,Billable,Pad
-Jason Jamieson,2600468,1.43,2026-06-19,Billable,Gate Removal
-Joshua Scott,2600468,1.43,2026-06-19,Billable,Gate Removal
-Roger Huber,2600348,5.0,2026-06-15,Billable,Set Posts
-Willie Dempsey,2600348,5.0,2026-06-15,Billable,Set Posts
-Jason Jamieson,2600260,1.13,2026-06-15,Billable,Gate Op
-Joshua Scott,2600260,1.13,2026-06-15,Billable,Gate Op
-Roger Huber,2600422,5.53,2026-06-16,Billable,Repair Wood Fence
-Willie Dempsey,2600422,5.53,2026-06-16,Billable,Repair Wood Fence
-Roger Huber,2600422,3.92,2026-06-18,Billable,Set Posts
-Willie Dempsey,2600422,3.92,2026-06-18,Billable,Set Posts
-Roger Huber,2600422,3.17,2026-06-19,Billable,Stretch Finish
-Willie Dempsey,2600422,3.17,2026-06-19,Billable,Stretch Finish
-Jose Moreno,2600287,4.02,2026-06-15,Billable,Set
-Frank Olachea,2600287,4.02,2026-06-15,Billable,Set
-Jose Moreno,2600287,4.33,2026-06-16,Billable,WORK PERFORMED NEEDED
-Frank Olachea,2600287,4.33,2026-06-16,Billable,WORK PERFORMED NEEDED
-Jose Moreno,2600301,6.0,2026-06-17,Billable,Stretch Finish
-Frank Olachea,2600301,6.0,2026-06-17,Billable,Stretch Finish
-Jose Moreno,2600446,3.0,2026-06-19,Billable,Set
-Felipe Morales,2600446,3.0,2026-06-19,Billable,Set
-Jose Moreno,2600401,6.0,2026-06-19,Billable,Stretch Finish
-Felipe Morales,2600401,6.0,2026-06-19,Billable,Stretch Finish
-Zach Reitzer,2600361,6.58,2026-06-15,Billable,Stretch Finish
-Felipe Morales,2600361,6.58,2026-06-15,Billable,Stretch Finish
-Zach Reitzer,2600262,4.67,2026-06-16,Billable,Stretch Finish
-Felipe Morales,2600262,4.67,2026-06-16,Billable,Stretch Finish
-Levi Saunders,2600262,4.67,2026-06-16,Billable,Stretch Finish
-Zach Reitzer,2600262,5.0,2026-06-17,Billable,Set
-Felipe Morales,2600262,5.0,2026-06-17,Billable,Set
-Zach Reitzer,2600451,4.25,2026-06-13,Billable,WORK PERFORMED NEEDED
-Frank Olachea,2600451,4.25,2026-06-13,Billable,WORK PERFORMED NEEDED
-Eric Mares,2600379,7.78,2026-06-19,Billable,Set
-Marcelino Garza,2600379,7.78,2026-06-19,Billable,Set
-Levi Saunders,2600379,7.78,2026-06-19,Billable,Set
-Eric Mares,2600379,4.08,2026-06-15,Billable,Stretch Finish
-Marcelino Garza,2600379,4.08,2026-06-15,Billable,Stretch Finish
-Eric Mares,2600330,6.0,2026-06-16,Billable,Set
-Marcelino Garza,2600330,6.0,2026-06-16,Billable,Set
-Eric Mares,2600429,6.17,2026-06-17,Billable,Set / Stretch
-Marcelino Garza,2600429,6.17,2026-06-17,Billable,Set / Stretch
-Eric Mares,2600087,7.32,2026-06-18,Billable,Set
-Marcelino Garza,2600087,7.32,2026-06-18,Billable,Set
-Levi Saunders,2600087,7.32,2026-06-18,Billable,Set
+Eric Mares,2600087,7.32,6/18/2026,Billable,Set
+Marcelino Garza,2600087,7.32,6/18/2026,Billable,Set
+Levi Saunders,2600087,7.32,6/18/2026,Billable,Set
+Jason Jamieson,2600260,4.42,6/16/2026,Billable,Gate Op Pad
+Joshua Scott,2600260,4.42,6/16/2026,Billable,Gate Op Pad
+Jason Jamieson,2600260,1.13,6/15/2026,Billable,Gate Op
+Joshua Scott,2600260,1.13,6/15/2026,Billable,Gate Op
+Zach Reitzer,2600262,4.67,6/16/2026,Billable,Stretch Finish
+Felipe Morales,2600262,4.67,6/16/2026,Billable,Stretch Finish
+Levi Saunders,2600262,4.67,6/16/2026,Billable,Stretch Finish
+Zach Reitzer,2600262,5,6/17/2026,Billable,Set
+Felipe Morales,2600262,5,6/17/2026,Billable,Set
+Jason Jamieson,2600272,2.58,6/18/2026,Billable,Pad
+Joshua Scott,2600272,2.58,6/18/2026,Billable,Pad
+Jose Moreno,2600287,4.02,6/15/2026,Billable,Set
+Frank Olachea,2600287,4.02,6/15/2026,Billable,Set
+Jose Moreno,2600287,4.33,6/16/2026,Billable,WORK PERFORMED NEEDED
+Frank Olachea,2600287,4.33,6/16/2026,Billable,WORK PERFORMED NEEDED
+Jose Moreno,2600301,6,6/17/2026,Billable,Stretch Finish
+Frank Olachea,2600301,6,6/17/2026,Billable,Stretch Finish
+Eric Mares,2600330,6,6/16/2026,Billable,Set
+Marcelino Garza,2600330,6,6/16/2026,Billable,Set
+Roger Huber,2600348,5,6/15/2026,Billable,Set Posts
+Willie Dempsey,2600348,5,6/15/2026,Billable,Set Posts
+Zach Reitzer,2600361,6.58,6/15/2026,Billable,Stretch Finish
+Felipe Morales,2600361,6.58,6/15/2026,Billable,Stretch Finish
+Eric Mares,2600379,7.78,6/19/2026,Billable,Set
+Marcelino Garza,2600379,7.78,6/19/2026,Billable,Set
+Levi Saunders,2600379,7.78,6/19/2026,Billable,Set
+Eric Mares,2600379,4.08,6/15/2026,Billable,Stretch Finish
+Marcelino Garza,2600379,4.08,6/15/2026,Billable,Stretch Finish
+Jose Moreno,2600401,6,6/19/2026,Billable,Stretch Finish
+Felipe Morales,2600401,6,6/19/2026,Billable,Stretch Finish
+Roger Huber,2600422,5.53,6/16/2026,Billable,Repair Wood Fence
+Willie Dempsey,2600422,5.53,6/16/2026,Billable,Repair Wood Fence
+Roger Huber,2600422,3.92,6/18/2026,Billable,Set Posts
+Willie Dempsey,2600422,3.92,6/18/2026,Billable,Set Posts
+Roger Huber,2600422,3.17,6/19/2026,Billable,Stretch Finish
+Willie Dempsey,2600422,3.17,6/19/2026,Billable,Stretch Finish
+Eric Mares,2600429,6.17,6/17/2026,Billable,Set / Stretch
+Marcelino Garza,2600429,6.17,6/17/2026,Billable,Set / Stretch
+Jose Moreno,2600446,3,6/19/2026,Billable,Set
+Felipe Morales,2600446,3,6/19/2026,Billable,Set
+Zach Reitzer,2600541,4.25,6/13/2026,Billable,WORK PERFORMED NEEDED
+Frank Olachea,2600541,4.25,6/13/2026,Billable,WORK PERFORMED NEEDED
+Jason Jamieson,2600468,1.43,6/19/2026,Billable,Gate Removal
+Joshua Scott,2600468,1.43,6/19/2026,Billable,Gate Removal

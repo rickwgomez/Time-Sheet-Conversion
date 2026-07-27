@@ -1,0 +1,691 @@
+{
+  "source_pdf": "incoming_timesheets/Week 30.pdf",
+  "output_base_name": "Week 30",
+  "sections": [
+    {
+      "source_page": 1,
+      "date": "2026-07-24",
+      "work_performed": "Repair",
+      "entries": [
+        {
+          "source_page": 1,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-24",
+          "work_performed": "Repair",
+          "job_number": "2600500",
+          "employee_name": "Eric Mares",
+          "start_time": "07:45",
+          "end_time": "10:30",
+          "total_hours": 2.75,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 1,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-24",
+          "work_performed": "Repair",
+          "job_number": "2600500",
+          "employee_name": "Felipe Morales",
+          "start_time": "07:45",
+          "end_time": "10:30",
+          "total_hours": 2.75,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 2,
+      "date": "2026-07-25",
+      "work_performed": "Finish",
+      "entries": [
+        {
+          "source_page": 2,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-25",
+          "work_performed": "Finish",
+          "job_number": "2600447",
+          "employee_name": "Eric Mares",
+          "start_time": "08:30",
+          "end_time": "14:45",
+          "total_hours": 6.25,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 2,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-25",
+          "work_performed": "Finish",
+          "job_number": "2600447",
+          "employee_name": "Felipe Morales",
+          "start_time": "08:30",
+          "end_time": "14:45",
+          "total_hours": 6.25,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 3,
+      "date": "2026-07-24",
+      "work_performed": "Repair",
+      "entries": [
+        {
+          "source_page": 3,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-24",
+          "work_performed": "Repair",
+          "job_number": "2600507",
+          "employee_name": "Eric Mares",
+          "start_time": "13:45",
+          "end_time": "15:15",
+          "total_hours": 1.5,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 3,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-24",
+          "work_performed": "Repair",
+          "job_number": "2600507",
+          "employee_name": "Felipe Morales",
+          "start_time": "13:45",
+          "end_time": "15:15",
+          "total_hours": 1.5,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 4,
+      "date": "2026-07-23",
+      "work_performed": "Hand Rail",
+      "entries": [
+        {
+          "source_page": 4,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-23",
+          "work_performed": "Hand Rail",
+          "job_number": "2600343",
+          "employee_name": "Jose Moreno",
+          "start_time": "08:17",
+          "end_time": "10:40",
+          "total_hours": 2.38,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 4,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-23",
+          "work_performed": "Hand Rail",
+          "job_number": "2600343",
+          "employee_name": "Marcelino Garza",
+          "start_time": "08:17",
+          "end_time": "10:40",
+          "total_hours": 2.38,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 5,
+      "date": "2026-07-22",
+      "work_performed": "Finish",
+      "entries": [
+        {
+          "source_page": 5,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-22",
+          "work_performed": "Finish",
+          "job_number": "2600483",
+          "employee_name": "Jose Moreno",
+          "start_time": "07:35",
+          "end_time": "12:45",
+          "total_hours": 5.17,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 5,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-22",
+          "work_performed": "Finish",
+          "job_number": "2600483",
+          "employee_name": "Marcelino Garza",
+          "start_time": "07:35",
+          "end_time": "12:45",
+          "total_hours": 5.17,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 6,
+      "date": "2026-07-21",
+      "work_performed": "Stretch Finish",
+      "entries": [
+        {
+          "source_page": 6,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-21",
+          "work_performed": "Stretch Finish",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Jose Moreno",
+          "start_time": "08:15",
+          "end_time": "12:15",
+          "total_hours": 4.0,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 6,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-21",
+          "work_performed": "Stretch Finish",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Marcelino Garza",
+          "start_time": "08:15",
+          "end_time": "12:15",
+          "total_hours": 4.0,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 7,
+      "date": "2026-07-22",
+      "work_performed": "Stretch Finish",
+      "entries": [
+        {
+          "source_page": 7,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-22",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600118",
+          "employee_name": "Roger Huber",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "total_hours": 4.5,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 7,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-22",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600118",
+          "employee_name": "Willie Dempsey",
+          "start_time": "09:00",
+          "end_time": "13:30",
+          "total_hours": 4.5,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 8,
+      "date": "2026-07-23",
+      "work_performed": "Stretch Finish",
+      "entries": [
+        {
+          "source_page": 8,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-23",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600035",
+          "employee_name": "Roger Huber",
+          "start_time": "07:55",
+          "end_time": "08:00",
+          "total_hours": 0.08,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 8,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-23",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600035",
+          "employee_name": "Willie Dempsey",
+          "start_time": "07:55",
+          "end_time": "08:00",
+          "total_hours": 0.08,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 9,
+      "date": "2026-07-21",
+      "work_performed": "Set / Stretch Finish",
+      "entries": [
+        {
+          "source_page": 9,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-21",
+          "work_performed": "Set / Stretch Finish",
+          "job_number": "2600118",
+          "employee_name": "Roger Huber",
+          "start_time": "09:20",
+          "end_time": "14:08",
+          "total_hours": 4.8,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 9,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-21",
+          "work_performed": "Set / Stretch Finish",
+          "job_number": "2600118",
+          "employee_name": "Levi Saunders",
+          "start_time": "09:20",
+          "end_time": "14:08",
+          "total_hours": 4.8,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 10,
+      "date": "2026-07-24",
+      "work_performed": "Set",
+      "entries": [
+        {
+          "source_page": 10,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-24",
+          "work_performed": "Set",
+          "job_number": "2600332",
+          "employee_name": "Jose Moreno",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "total_hours": 2.0,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 10,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-24",
+          "work_performed": "Set",
+          "job_number": "2600332",
+          "employee_name": "Frank Olachea",
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "total_hours": 2.0,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 11,
+      "date": "2026-07-21",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "entries": [
+        {
+          "source_page": 11,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-21",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600363",
+          "employee_name": "Jason Jamieson",
+          "start_time": "08:36",
+          "end_time": "10:35",
+          "total_hours": 1.98,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 11,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-21",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "2600363",
+          "employee_name": "Joshua Scott",
+          "start_time": "08:36",
+          "end_time": "10:35",
+          "total_hours": 1.98,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 12,
+      "date": "2026-07-21",
+      "work_performed": "Build",
+      "entries": [
+        {
+          "source_page": 12,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-21",
+          "work_performed": "Build",
+          "job_number": "2600447",
+          "employee_name": "Eric Mares",
+          "start_time": "07:45",
+          "end_time": "12:00",
+          "total_hours": 4.25,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 12,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-21",
+          "work_performed": "Build",
+          "job_number": "2600447",
+          "employee_name": "Felipe Morales",
+          "start_time": "07:45",
+          "end_time": "12:00",
+          "total_hours": 4.25,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 13,
+      "date": "2026-07-23",
+      "work_performed": "WORK PERFORMED NEEDED",
+      "entries": [
+        {
+          "source_page": 13,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-23",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Jose Moreno",
+          "start_time": "ON SITE MISSING",
+          "end_time": "ON SITE MISSING",
+          "total_hours": null,
+          "include_in_summary": false,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 13,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-23",
+          "work_performed": "WORK PERFORMED NEEDED",
+          "job_number": "JOB# NEEDED",
+          "employee_name": "Marcelino Garza",
+          "start_time": "ON SITE MISSING",
+          "end_time": "ON SITE MISSING",
+          "total_hours": null,
+          "include_in_summary": false,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 14,
+      "date": "2026-07-22",
+      "work_performed": "Stretch Finish",
+      "entries": [
+        {
+          "source_page": 14,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-22",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600447",
+          "employee_name": "Eric Mares",
+          "start_time": "06:45",
+          "end_time": "15:00",
+          "total_hours": 8.25,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 14,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-22",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600447",
+          "employee_name": "Felipe Morales",
+          "start_time": "06:45",
+          "end_time": "15:00",
+          "total_hours": 8.25,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 14,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-22",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600447",
+          "employee_name": "Frank Olachea",
+          "start_time": "06:45",
+          "end_time": "15:00",
+          "total_hours": 8.25,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 15,
+      "date": "2026-07-20",
+      "work_performed": "Set",
+      "entries": [
+        {
+          "source_page": 15,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-20",
+          "work_performed": "Set",
+          "job_number": "2600035",
+          "employee_name": "Zach Reitzer",
+          "start_time": "07:35",
+          "end_time": "15:20",
+          "total_hours": 7.75,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 15,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-20",
+          "work_performed": "Set",
+          "job_number": "2600035",
+          "employee_name": "Frank Olachea",
+          "start_time": "07:35",
+          "end_time": "15:20",
+          "total_hours": 7.75,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 16,
+      "date": "2026-07-21",
+      "work_performed": "Set",
+      "entries": [
+        {
+          "source_page": 16,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-21",
+          "work_performed": "Set",
+          "job_number": "2600137",
+          "employee_name": "Zach Reitzer",
+          "start_time": "07:50",
+          "end_time": "14:30",
+          "total_hours": 6.67,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 16,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-21",
+          "work_performed": "Set",
+          "job_number": "2600137",
+          "employee_name": "Frank Olachea",
+          "start_time": "07:50",
+          "end_time": "14:30",
+          "total_hours": 6.67,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 17,
+      "date": "2026-07-20",
+      "work_performed": "Trenching for Exit and Intercom",
+      "entries": [
+        {
+          "source_page": 17,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-20",
+          "work_performed": "Trenching for Exit and Intercom",
+          "job_number": "2600363",
+          "employee_name": "Jason Jamieson",
+          "start_time": "08:39",
+          "end_time": "12:00",
+          "total_hours": 3.35,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 18,
+      "date": "2026-07-21",
+      "work_performed": "Stretch Finish",
+      "entries": [
+        {
+          "source_page": 18,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-21",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600447",
+          "employee_name": "Eric Mares",
+          "start_time": "07:05",
+          "end_time": "15:15",
+          "total_hours": 8.17,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 18,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-21",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600447",
+          "employee_name": "Felipe Morales",
+          "start_time": "07:05",
+          "end_time": "15:15",
+          "total_hours": 8.17,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    },
+    {
+      "source_page": 19,
+      "date": "2026-07-24",
+      "work_performed": "Stretch Finish",
+      "entries": [
+        {
+          "source_page": 19,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-24",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600035",
+          "employee_name": "Roger Huber",
+          "start_time": "07:30",
+          "end_time": "14:45",
+          "total_hours": 7.25,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        },
+        {
+          "source_page": 19,
+          "source_pdf": "incoming_timesheets/Week 30.pdf",
+          "date": "2026-07-24",
+          "work_performed": "Stretch Finish",
+          "job_number": "2600035",
+          "employee_name": "Willie Dempsey",
+          "start_time": "07:30",
+          "end_time": "14:45",
+          "total_hours": 7.25,
+          "include_in_summary": true,
+          "prevailing_wage": false
+        }
+      ]
+    }
+  ],
+  "summary": [
+    {
+      "employee_name": "Eric Mares",
+      "on_site_entries": 6,
+      "total_on_site_hours": 31.17
+    },
+    {
+      "employee_name": "Felipe Morales",
+      "on_site_entries": 6,
+      "total_on_site_hours": 31.17
+    },
+    {
+      "employee_name": "Frank Olachea",
+      "on_site_entries": 4,
+      "total_on_site_hours": 24.67
+    },
+    {
+      "employee_name": "Jason Jamieson",
+      "on_site_entries": 2,
+      "total_on_site_hours": 5.33
+    },
+    {
+      "employee_name": "Jose Moreno",
+      "on_site_entries": 4,
+      "total_on_site_hours": 13.55
+    },
+    {
+      "employee_name": "Joshua Scott",
+      "on_site_entries": 1,
+      "total_on_site_hours": 1.98
+    },
+    {
+      "employee_name": "Levi Saunders",
+      "on_site_entries": 1,
+      "total_on_site_hours": 4.8
+    },
+    {
+      "employee_name": "Marcelino Garza",
+      "on_site_entries": 3,
+      "total_on_site_hours": 11.55
+    },
+    {
+      "employee_name": "Roger Huber",
+      "on_site_entries": 4,
+      "total_on_site_hours": 16.63
+    },
+    {
+      "employee_name": "Willie Dempsey",
+      "on_site_entries": 3,
+      "total_on_site_hours": 11.83
+    },
+    {
+      "employee_name": "Zach Reitzer",
+      "on_site_entries": 2,
+      "total_on_site_hours": 14.42
+    }
+  ],
+  "model_version": "timecard.weekly_on_site.v1"
+}

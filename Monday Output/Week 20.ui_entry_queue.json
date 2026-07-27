@@ -1,0 +1,286 @@
+{
+  "source_workbook": "C:\\Users\\RGomez\\OneDrive - Outdoor Fence\\Documents\\Time Card Reading\\outputs\\Week 20.xlsx",
+  "source_sheet": "Weekly On Site",
+  "entries": [
+    {
+      "employee_name": "Zach Reitzer",
+      "Project": "2600205",
+      "Hours": 4.33,
+      "Date": "2026-05-11",
+      "Type": "Billable",
+      "Description": "Stretch"
+    },
+    {
+      "employee_name": "Marcelino Garza",
+      "Project": "2600205",
+      "Hours": 4.33,
+      "Date": "2026-05-11",
+      "Type": "Billable",
+      "Description": "Stretch"
+    },
+    {
+      "employee_name": "Zach Reitzer",
+      "Project": "2600205",
+      "Hours": 7.75,
+      "Date": "2026-05-12",
+      "Type": "Billable",
+      "Description": "WORK PERFORMED NEEDED"
+    },
+    {
+      "employee_name": "Felipe Morales",
+      "Project": "2600205",
+      "Hours": 7.75,
+      "Date": "2026-05-12",
+      "Type": "Billable",
+      "Description": "WORK PERFORMED NEEDED"
+    },
+    {
+      "employee_name": "Zach Reitzer",
+      "Project": "2600357",
+      "Hours": 4.67,
+      "Date": "2026-05-14",
+      "Type": "Billable",
+      "Description": "Set"
+    },
+    {
+      "employee_name": "Felipe Morales",
+      "Project": "2600357",
+      "Hours": 4.67,
+      "Date": "2026-05-14",
+      "Type": "Billable",
+      "Description": "Set"
+    },
+    {
+      "employee_name": "Zach Reitzer",
+      "Project": "2501095",
+      "Hours": 0.5,
+      "Date": "2026-05-15",
+      "Type": "Billable",
+      "Description": "Maintenance"
+    },
+    {
+      "employee_name": "Felipe Morales",
+      "Project": "2501095",
+      "Hours": 0.5,
+      "Date": "2026-05-15",
+      "Type": "Billable",
+      "Description": "Maintenance"
+    },
+    {
+      "employee_name": "Jose Moreno",
+      "Project": "2600272",
+      "Hours": 5.58,
+      "Date": "2026-05-14",
+      "Type": "Billable",
+      "Description": "Complete"
+    },
+    {
+      "employee_name": "Felipe Morales",
+      "Project": "2600272",
+      "Hours": 5.58,
+      "Date": "2026-05-14",
+      "Type": "Billable",
+      "Description": "Complete"
+    },
+    {
+      "employee_name": "Jose Moreno",
+      "Project": "2600170",
+      "Hours": 5.83,
+      "Date": "2026-05-12",
+      "Type": "Billable",
+      "Description": "Stretch Finish"
+    },
+    {
+      "employee_name": "Frank Olachea",
+      "Project": "2600170",
+      "Hours": 5.83,
+      "Date": "2026-05-12",
+      "Type": "Billable",
+      "Description": "Stretch Finish"
+    },
+    {
+      "employee_name": "Roger Huber",
+      "Project": "2600316",
+      "Hours": 4.42,
+      "Date": "2026-05-11",
+      "Type": "Billable",
+      "Description": "Stretch Finish"
+    },
+    {
+      "employee_name": "Willie Dempsey",
+      "Project": "2600316",
+      "Hours": 4.42,
+      "Date": "2026-05-11",
+      "Type": "Billable",
+      "Description": "Stretch Finish"
+    },
+    {
+      "employee_name": "Roger Huber",
+      "Project": "2501164",
+      "Hours": 3.75,
+      "Date": "2026-05-12",
+      "Type": "Billable",
+      "Description": "Install Oz Panels"
+    },
+    {
+      "employee_name": "Willie Dempsey",
+      "Project": "2501164",
+      "Hours": 3.75,
+      "Date": "2026-05-12",
+      "Type": "Billable",
+      "Description": "Install Oz Panels"
+    },
+    {
+      "employee_name": "Roger Huber",
+      "Project": "2600282",
+      "Hours": 7.17,
+      "Date": "2026-05-13",
+      "Type": "Billable",
+      "Description": "Set Posts"
+    },
+    {
+      "employee_name": "Willie Dempsey",
+      "Project": "2600282",
+      "Hours": 7.17,
+      "Date": "2026-05-13",
+      "Type": "Billable",
+      "Description": "Set Posts"
+    },
+    {
+      "employee_name": "Roger Huber",
+      "Project": "2600163",
+      "Hours": 1.58,
+      "Date": "2026-05-15",
+      "Type": "Billable",
+      "Description": "WORK PERFORMED NEEDED"
+    },
+    {
+      "employee_name": "Willie Dempsey",
+      "Project": "2600163",
+      "Hours": 1.58,
+      "Date": "2026-05-15",
+      "Type": "Billable",
+      "Description": "WORK PERFORMED NEEDED"
+    },
+    {
+      "employee_name": "Frank Olachea",
+      "Project": "2600163",
+      "Hours": 1.58,
+      "Date": "2026-05-15",
+      "Type": "Billable",
+      "Description": "WORK PERFORMED NEEDED"
+    },
+    {
+      "employee_name": "Jason Jamieson",
+      "Project": "2600162",
+      "Hours": 3.68,
+      "Date": "2026-05-13",
+      "Type": "Billable",
+      "Description": "Gate Operator"
+    },
+    {
+      "employee_name": "Joshua Scott",
+      "Project": "2600162",
+      "Hours": 3.68,
+      "Date": "2026-05-13",
+      "Type": "Billable",
+      "Description": "Gate Operator"
+    },
+    {
+      "employee_name": "Jason Jamieson",
+      "Project": "2600162",
+      "Hours": 1.42,
+      "Date": "2026-05-14",
+      "Type": "Billable",
+      "Description": "Gate Operator Pad"
+    },
+    {
+      "employee_name": "Joshua Scott",
+      "Project": "2600162",
+      "Hours": 1.42,
+      "Date": "2026-05-14",
+      "Type": "Billable",
+      "Description": "Gate Operator Pad"
+    },
+    {
+      "employee_name": "Eric Mares",
+      "Project": "2600292",
+      "Hours": 7.33,
+      "Date": "2026-05-12",
+      "Type": "Billable",
+      "Description": "Set Tie"
+    },
+    {
+      "employee_name": "Marcelino Garza",
+      "Project": "2600292",
+      "Hours": 7.33,
+      "Date": "2026-05-12",
+      "Type": "Billable",
+      "Description": "Set Tie"
+    },
+    {
+      "employee_name": "Eric Mares",
+      "Project": "2600292",
+      "Hours": 4.17,
+      "Date": "2026-05-13",
+      "Type": "Billable",
+      "Description": "Set / Stretch"
+    },
+    {
+      "employee_name": "Marcelino Garza",
+      "Project": "2600292",
+      "Hours": 4.17,
+      "Date": "2026-05-13",
+      "Type": "Billable",
+      "Description": "Set / Stretch"
+    },
+    {
+      "employee_name": "Eric Mares",
+      "Project": "2600336",
+      "Hours": 5.77,
+      "Date": "2026-05-14",
+      "Type": "Billable",
+      "Description": "Stretch + Gates"
+    },
+    {
+      "employee_name": "Marcelino Garza",
+      "Project": "2600336",
+      "Hours": 5.77,
+      "Date": "2026-05-14",
+      "Type": "Billable",
+      "Description": "Stretch + Gates"
+    },
+    {
+      "employee_name": "Eric Mares",
+      "Project": "2600366",
+      "Hours": 0.5,
+      "Date": "2026-05-15",
+      "Type": "Billable",
+      "Description": "Repair"
+    },
+    {
+      "employee_name": "Marcelino Garza",
+      "Project": "2600366",
+      "Hours": 0.5,
+      "Date": "2026-05-15",
+      "Type": "Billable",
+      "Description": "Repair"
+    },
+    {
+      "employee_name": "Eric Mares",
+      "Project": "2600339",
+      "Hours": 1.75,
+      "Date": "2026-05-15",
+      "Type": "Billable",
+      "Description": "Gates"
+    },
+    {
+      "employee_name": "Marcelino Garza",
+      "Project": "2600339",
+      "Hours": 1.75,
+      "Date": "2026-05-15",
+      "Type": "Billable",
+      "Description": "Gates"
+    }
+  ]
+}

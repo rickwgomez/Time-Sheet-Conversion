@@ -1,0 +1,36 @@
+Employee,Project,Hours,Date,Type,Description
+Zach Reitzer,2600205,4.33,2026-05-11,Billable,Stretch
+Marcelino Garza,2600205,4.33,2026-05-11,Billable,Stretch
+Zach Reitzer,2600205,7.75,2026-05-12,Billable,WORK PERFORMED NEEDED
+Felipe Morales,2600205,7.75,2026-05-12,Billable,WORK PERFORMED NEEDED
+Zach Reitzer,2600357,4.67,2026-05-14,Billable,Set
+Felipe Morales,2600357,4.67,2026-05-14,Billable,Set
+Zach Reitzer,2501095,0.5,2026-05-15,Billable,Maintenance
+Felipe Morales,2501095,0.5,2026-05-15,Billable,Maintenance
+Jose Moreno,2600272,5.58,2026-05-14,Billable,Complete
+Felipe Morales,2600272,5.58,2026-05-14,Billable,Complete
+Jose Moreno,2600170,5.83,2026-05-12,Billable,Stretch Finish
+Frank Olachea,2600170,5.83,2026-05-12,Billable,Stretch Finish
+Roger Huber,2600316,4.42,2026-05-11,Billable,Stretch Finish
+Willie Dempsey,2600316,4.42,2026-05-11,Billable,Stretch Finish
+Roger Huber,2501164,3.75,2026-05-12,Billable,Install Oz Panels
+Willie Dempsey,2501164,3.75,2026-05-12,Billable,Install Oz Panels
+Roger Huber,2600282,7.17,2026-05-13,Billable,Set Posts
+Willie Dempsey,2600282,7.17,2026-05-13,Billable,Set Posts
+Roger Huber,2600163,1.58,2026-05-15,Billable,WORK PERFORMED NEEDED
+Willie Dempsey,2600163,1.58,2026-05-15,Billable,WORK PERFORMED NEEDED
+Frank Olachea,2600163,1.58,2026-05-15,Billable,WORK PERFORMED NEEDED
+Jason Jamieson,2600162,3.68,2026-05-13,Billable,Gate Operator
+Joshua Scott,2600162,3.68,2026-05-13,Billable,Gate Operator
+Jason Jamieson,2600162,1.42,2026-05-14,Billable,Gate Operator Pad
+Joshua Scott,2600162,1.42,2026-05-14,Billable,Gate Operator Pad
+Eric Mares,2600292,7.33,2026-05-12,Billable,Set Tie
+Marcelino Garza,2600292,7.33,2026-05-12,Billable,Set Tie
+Eric Mares,2600292,4.17,2026-05-13,Billable,Set / Stretch
+Marcelino Garza,2600292,4.17,2026-05-13,Billable,Set / Stretch
+Eric Mares,2600336,5.77,2026-05-14,Billable,Stretch + Gates
+Marcelino Garza,2600336,5.77,2026-05-14,Billable,Stretch + Gates
+Eric Mares,2600366,0.5,2026-05-15,Billable,Repair
+Marcelino Garza,2600366,0.5,2026-05-15,Billable,Repair
+Eric Mares,2600339,1.75,2026-05-15,Billable,Gates
+Marcelino Garza,2600339,1.75,2026-05-15,Billable,Gates
